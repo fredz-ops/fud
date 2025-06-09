@@ -66,4 +66,3 @@
 
 ---
 
-Vuoi che converta anche le sezioni successive in formato Markdown per Obsidian? Posso continuare con 🍕 Pizza, 🍔 Pub, 🏙️ Vista ecc.
