@@ -18,7 +18,7 @@
 ## 🥡 Market
 
 - [Seven Dials](https://www.google.com/maps/search/?api=1&query=Seven+Dials+London) — Ex deposito di banane. Ottimo a pranzo e cena.
-- [Mercato Mayfair](https://www.google.com/maps/search/?api=1&query=Mercato+Mayfair+London) — Ex chiesa sconsacrata. Aperto fino alle 23:30. Dopo le 20:30 niente fila, DJ set.
+- [Mercato Mayfair](https://www.google.com/maps/search/?api=1&query=Mercato+Mayfair+London) — Ex chiesa sconsacrata. Aperto fino alle 23:30. Dopo le 20:30 poca fila, DJ set.
 - [Spitalfields Market](https://www.google.com/maps/search/?api=1&query=Spitalfields+Market+London) — Meglio a pranzo.
 - [Borough Market](https://www.google.com/maps/search/?api=1&query=Borough+Market+London) — Pranzo consigliato.
 
