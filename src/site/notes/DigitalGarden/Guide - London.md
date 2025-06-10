@@ -78,19 +78,16 @@ Porzioni piccole e prezzi alti rispetto a Roma.
 In generale, i pub servono ottimi hamburger. Per quelli tipici inglesi, uno vale l’altro.
 
 🔗 [Tutti i miei pub](https://maps.app.goo.gl/1Jzu97u9jSin3Dkd8)
-
 ### Pub fighetti & speakeasy
 - [Cahoots](https://www.google.com/maps/search/?api=1&query=Cahoots+London) – Speakeasy in stile ufficio postale.
 - [Mr. Fogg's](https://www.google.com/maps/search/?api=1&query=Mr.+Fogg%27s+London) – Vari locali in città, stile vintage, 1000 tipi di gin.
 - [Aqua @ The Shard](https://www.google.com/maps/search/?api=1&query=Aqua+Shard+London) – Vista incredibile, perfetto la sera. Cocktail: £20-25.
-
 ### Rooftops
 - [Radio Rooftop London](https://www.google.com/maps/search/?api=1&query=Radio+Rooftop+London)
 - [Jin Bo Law Skybar](https://www.google.com/maps/search/?api=1&query=Jin+Bo+Law+Skybar+London)
 - [Wagtail Rooftop Bar & Restaurant](https://www.google.com/maps/search/?api=1&query=Wagtail+Rooftop+Bar+%26+Restaurant+London) – Vista spettacolare su St. Paul's, Tower Bridge e The Shard.
 - [Florattica Rooftop London](https://www.google.com/maps/search/?api=1&query=Florattica+Rooftop+London)
 - [Savage Garden](https://www.google.com/maps/search/?api=1&query=Savage+Garden+Rooftop+Bar+London) – Vista su Tower of London, The Shard. Cocktail creativi, stile audace.
-
 ### Pub con giochi
 - [Flight Club](https://www.google.com/maps/search/?api=1&query=Flight+Club+London) – Freccette
 - [Electric Shuffle](https://www.google.com/maps/search/?api=1&query=Electric+Shuffle+London) – Shuffleboard elettronico
@@ -98,7 +95,6 @@ In generale, i pub servono ottimi hamburger. Per quelli tipici inglesi, uno vale
 - [Ballie Ballerson](https://www.google.com/maps/search/?api=1&query=Ballie+Ballerson+London) – Piscina di palline, musica e drink
 
 ---
-
 ## 🏙️ Panorami e Vista
 - [Salesforce Tower (Sushi Samba)](https://www.google.com/maps/search/?api=1&query=Salesforce+Tower+Sushi+Samba+London) – Vai all’ingresso e chiedi di salire solo per un cocktail. Ascensore panoramico. Cocktail £16-18.
 - [The Garden at 120](https://www.google.com/maps/search/?api=1&query=The+Garden+at+120+London) – Giardino su un grattacielo. Gratis.
