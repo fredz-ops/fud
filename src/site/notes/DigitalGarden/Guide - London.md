@@ -11,7 +11,7 @@
 - Evita i ristoranti italiani (carissimi e spesso mediocri), tranne alcune pizzerie.
 - A Londra, le cucine etniche (libanese, indiana, asiatica) sono spesso più autentiche che in Italia.
 
-#+🔗 [Tutti i miei ristoranti](https://maps.app.goo.gl/yUdTQqtVX5Swvoou5)
+#+list: 🔗 [Tutti i miei ristoranti](https://maps.app.goo.gl/yUdTQqtVX5Swvoou5)
 
 ---
 
