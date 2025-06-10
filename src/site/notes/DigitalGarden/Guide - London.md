@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/digital-garden/guide-london/","tags":["resource"]}
 ---
 
-# 📘 Guida - Londra
-
 ## 🍽️ Cibo
 
 - Le cucine chiudono tra le 21:30 e le 22:30 (anche nei pub).
