@@ -24,7 +24,7 @@
 ## 🥢 Cucina asiatica
 
 [Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) — Cinese. 
-> [!TIP]- Try:
+> Try:
 > - Juicy pork dumplings
 > - noodle soup
 - [Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) — Cinese. Prendi i piatti signature. No prenotazione, spesso fila.
@@ -32,6 +32,14 @@
 - [Kimchee Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Kimchee+Restaurant+%26+Bar+London) — Coreano.
 - [Gunpowder](https://www.google.com/maps/search/?api=1&query=Gunpowder+London) — Cucina indiana fusion.
 - [Dishoom](https://www.google.com/maps/search/?api=1&query=Dishoom+London) - Cucina indiana
+[Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London)
+#chinese #walk-in #💰💰💰
+Try: signature dishes, pork dumplings 
+[Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London)
+#chinese #walk-in #💸💸💸 
+	Try: 
+	- Juicy pork dumplings
+	- noodle soup
 
 ---
 ## 🌊 Mediterranea / Inglese
