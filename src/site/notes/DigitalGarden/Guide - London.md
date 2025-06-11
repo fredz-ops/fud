@@ -35,9 +35,8 @@
 	Try: 
 	- Juicy pork dumplings
 	- noodle soup
-
-[Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) #chinese #walk-in #💸💸💸 🍽️ Juicy pork dumplings, noodle soup.
-*chiude alle 9*
+- [Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) #chinese #walk-in #💸💸💸 🍽️ Juicy pork dumplings, noodle soup.
+	*chiude alle 9*
 
 ---
 ## 🌊 Mediterranea / Inglese
