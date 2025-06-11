@@ -6,18 +6,22 @@
 ## 🥢 Cucina asiatica
 
 - [Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) — Cinese. 
-> [!TIP]+ Prova: va juicy pork dumplings e noodle soup. No prenotazione.
+> [!TIP]- Prova: 
+va juicy pork dumplings e noodle soup. No prenotazione.
 
-`prova`
+- [Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) — \$$ #chinese #walk-in
+	Try: signature dishes, pork dumplings 
 
-
-- [Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) — Cinese. Prendi i piatti signature. No prenotazione, spesso fila. 
+- [Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) - chinese | walk-in | \$$
+	Try: 
+	- Juicy pork dumplings
+	- noodle soup
 
 **Sakura Bistro** 
-			Cuisine: Japanese  
-			Booking/Walk-in: Walk-in  
-			Recommended Dishes: Ramen, Sushi Platter  
-			Location: Main St, Downtown  
-			Price Range: \$$
-			Notes: Cozy spot, quick service
+	Cuisine: Japanese  
+	Booking/Walk-in: Walk-in  
+	Recommended Dishes: Ramen, Sushi Platter  
+	Location: Main St, Downtown  
+	Price Range: \$$
+	Notes: Cozy spot, quick service
 
