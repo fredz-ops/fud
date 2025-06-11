@@ -12,8 +12,9 @@
 
 
 - [Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) — Cinese. Prendi i piatti signature. No prenotazione, spesso fila. 
--
-> [!info]+ Sakura Bistro
+
+Sakura Bistro 
+> [!info]+ 
 > **Cuisine:** Japanese  
 > **Booking/Walk-in:** Walk-in  
 > **Recommended Dishes:** Ramen, Sushi Platter  
@@ -22,8 +23,13 @@
 > **Notes:** Cozy spot, quick service  
 
 
-| Restaurant Name  | Cuisine   | Booking/Walk-in | Recommended Dishes     | Location          | Price Range | Notes                           |
-|------------------|-----------|-----------------|------------------------|-------------------|-------------|----------------------------------|
-| Sakura Bistro    | Japanese  | Walk-in         | Ramen, Sushi Platter   | Main St, Downtown | $$          | Cozy spot, quick service         |
-| Bella Italia     | Italian   | Booking         | Carbonara, Tiramisu    | Via Roma, Center  | $$$         | Romantic atmosphere, great wine  |
-| Green Spoon      | Vegetarian| Walk-in         | Buddha Bowl, Smoothies | Park Ave, Uptown  | $           | Vegan options, outdoor seating   |
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
+	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
+		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068263/dgdocs/CleanShot_2022-11-10_at_09.17.28_2x.png"/>
+		<a href="https://notes.thatother.dev/">That Other Dev</a>
+	</div>
+	<div style="display: flex; flex-direction: column; justify-content: center;align-items: center">
+		<img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068103/dgdocs/CleanShot_2022-11-10_at_09.14.47_2x.png"/>
+		<a href="https://syleria.netlify.app/">Syleria</a>
+	</div>
+</div>
