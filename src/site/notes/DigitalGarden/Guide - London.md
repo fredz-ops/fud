@@ -23,7 +23,10 @@
 ---
 ## 🥢 Cucina asiatica
 
-- [Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) — Cinese. Prova juicy pork dumplings e noodle soup. No prenotazione.
+- [Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) — Cinese. 
+> [!TIP]- Try:
+> - Juicy pork dumplings
+> - noodle soup
 - [Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) — Cinese. Prendi i piatti signature. No prenotazione, spesso fila.
 - [Ippudo Central Saint Giles](https://www.google.com/maps/search/?api=1&query=Ippudo+Central+Saint+Giles+London) — Ramen consigliato da un giapponese.
 - [Kimchee Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Kimchee+Restaurant+%26+Bar+London) — Coreano.
@@ -39,6 +42,7 @@
 
 ---
 ## 🍕 Pizza
+
 - [Rosso Pomodoro](https://www.google.com/maps/search/?api=1&query=Rosso+Pomodoro+London)
 - [Napoli on the Road](https://www.google.com/maps/search/?api=1&query=Napoli+on+the+Road+London)
 - [Fatto a Mano](https://www.google.com/maps/search/?api=1&query=Fatto+a+Mano+King%27s+Cross+London) – Zona King's Cross
@@ -47,19 +51,16 @@
 
 ---
 ## 🍝 Pasta
-
 Porzioni piccole e prezzi alti rispetto a Roma.
 
 - [Padella](https://www.google.com/maps/search/?api=1&query=Padella+Shoreditch+London) – Zona Shoreditch.
 
 ---
 ## 🍔 Hamburger
-
 - [Shake Shack](https://www.google.com/maps/search/?api=1&query=Shake+Shack+London) – Catena ma di qualità.
 
 ---
 ## 🍰 Dolci & Caffè
-
 🔗 [Tutti i miei dolci & caffè](https://maps.app.goo.gl/JSVDmn7t5oDPKYrYA)
 
 - [Etna Coffee](https://www.google.com/maps/search/?api=1&query=Etna+Coffee+London) — Granita siciliana consigliata da amico siciliano.
@@ -69,6 +70,7 @@ Porzioni piccole e prezzi alti rispetto a Roma.
 - [Bread Ahead South Kensington](https://www.google.com/maps/search/?api=1&query=Bread+Ahead+South+Kensington+London) — Doughnut top. Prova: crème brûlée, sticky toffee.
 - [La Maritxu Connaught](https://www.google.com/maps/search/?api=1&query=La+Maritxu+Connaught+London) — Cheesecake basca.
 - [Carpo – Hans Crescent](https://www.google.com/maps/search/?api=1&query=Carpo+Hans+Crescent+London) — Noci di macadamia incredibili.
+- [Kossofs](https://www.google.com/maps/search/?api=1&query=Kossofs+London) — Lievitati, Baguettes better than France 
 
 ---
 ## 🍻 Pub
@@ -107,7 +109,7 @@ In generale, i pub servono ottimi hamburger. Per quelli tipici inglesi, uno vale
 
 ---
 ## 📍 Itinerari
-### Zona London Bridge & Tower Bridge
+### London Bridge & Tower Bridge
 1. London Bridge & Borough Market
 2. Passeggiata lungo il Tamigi:
 	- Vista sullo Shard
@@ -120,3 +122,22 @@ In generale, i pub servono ottimi hamburger. Per quelli tipici inglesi, uno vale
 6. Bus fino a St. Paul's Cathedral
 7. Vista panoramica da [One New Change](https://www.google.com/maps/search/?api=1&query=One+New+Change+London) (terrazza)
 8. Millennium Bridge
+Related: Cahoots 
+### The City of London
+1. Moorgate (Roman Walls)
+2. Liverpool Street 
+3. Salesforce Tower 
+4. Artillery Passage 
+5. Spitalfields market 
+6. Gerking 
+7. Horizon 22
+8. Leadenhall market 
+9. Garden @120
+10. Monument 
+Ralated : Yeye, Flight Club, Swingers crazy minigolf 
+### Leicester Square, Piccadilly, Soho
+Related: Noodle Inn, ippudo
+### Camden, Kentish Town, Primrose hill
+Related: Kossofs, Bread By Bike 
+### Notting Hill, Portobello, Mercato Mayfair
+Related: Halepi Greek restaurant
