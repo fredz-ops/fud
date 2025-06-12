@@ -29,8 +29,8 @@
 	- 🍴Signature dishes.
 - [Ippudo Central Saint Giles](https://www.google.com/maps/search/?api=1&query=Ippudo+Central+Saint+Giles+London) #japanese Recommended by Japanese.
 - [Kimchee Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Kimchee+Restaurant+%26+Bar+London) #korean 
-- [Gunpowder](https://www.google.com/maps/search/?api=1&query=Gunpowder+London) — #indian-fusion
-- [Dishoom](https://www.google.com/maps/search/?api=1&query=Dishoom+London) — #indian
+- [Gunpowder](https://www.google.com/maps/search/?api=1&query=Gunpowder+London) #indian-fusion
+- [Dishoom](https://www.google.com/maps/search/?api=1&query=Dishoom+London) #indian
 
 ---
 ## 🌊 Mediterranea / Inglese
