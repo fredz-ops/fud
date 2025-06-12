@@ -23,13 +23,14 @@
 ---
 ## 🥢 Cucina asiatica
 
-- [Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) — 
+[Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) — 
 	- #chinese 🖊️walk-in, closes @9.
 	- 🍴Juicy pork dumplings, noodle soup. 
-- [Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) — #chinese 
+[Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) — #chinese 
 	- 🖊️walk-in, big queue, go off peak. 
 	- 🍴Signature dishes.
-- [Ippudo Central Saint Giles](https://www.google.com/maps/search/?api=1&query=Ippudo+Central+Saint+Giles+London) — #japanese Recommended by Japanese.
+[Ippudo Central Saint Giles](https://www.google.com/maps/search/?api=1&query=Ippudo+Central+Saint+Giles+London) — #japanese 
+	- Recommended by Japanese.
 - [Kimchee Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Kimchee+Restaurant+%26+Bar+London) — #korean 
 - [Gunpowder](https://www.google.com/maps/search/?api=1&query=Gunpowder+London) — #indian-fusion
 - [Dishoom](https://www.google.com/maps/search/?api=1&query=Dishoom+London) — #indian
