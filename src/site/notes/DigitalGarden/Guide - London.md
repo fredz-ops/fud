@@ -23,7 +23,7 @@
 ---
 ## 🥢 Cucina asiatica
 
-- [Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) — #chinese walk-in, closes @9.
+- [Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) — #chinese walk-in, closes 9pm.
 	- 🍴Juicy pork dumplings, noodle soup. 
 - [Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) — #chinese walk-in, big queue, go off peak. 
 	- 🍴Signature dishes.
