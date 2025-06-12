@@ -25,7 +25,7 @@
 
 - [Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) — #chinese 🍽️ Juicy pork dumplings, noodle soup. 📝 walk-in, closes @9
 - [Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) — #chinese 🍽️ Signature dishes. 📝 walk-in, big queue, go off peak. 
-- [Ippudo Central Saint Giles](https://www.google.com/maps/search/?api=1&query=Ippudo+Central+Saint+Giles+London) — Japanese Recommended by Japanese.
+- [Ippudo Central Saint Giles](https://www.google.com/maps/search/?api=1&query=Ippudo+Central+Saint+Giles+London) — #japanese Recommended by Japanese.
 - [Kimchee Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Kimchee+Restaurant+%26+Bar+London) — #korean 
 - [Gunpowder](https://www.google.com/maps/search/?api=1&query=Gunpowder+London) — #indian-fusion
 - [Dishoom](https://www.google.com/maps/search/?api=1&query=Dishoom+London) — #indian
