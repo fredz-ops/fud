@@ -14,12 +14,3 @@ Try: signature dishes, pork dumplings
 	Try: 
 	- Juicy pork dumplings
 	- noodle soup
-
-**Sakura Bistro** 
-	Cuisine: Japanese  
-	Booking/Walk-in: Walk-in  
-	Recommended Dishes: Ramen, Sushi Platter  
-	Location: Main St, Downtown  
-	Price Range: \$$
-	Notes: Cozy spot, quick service
-
