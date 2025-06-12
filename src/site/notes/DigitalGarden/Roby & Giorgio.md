@@ -34,5 +34,9 @@
 - **12:00–13:00**: Free lunch time – *Noodle Inn* (walk-in)
 - **18:00–24:00**: Free evening
   - Options: Flying Horse (cocktails, book), rooftop bar (for view & cocktails, book), or garden 0120 (walk-in for view)
-# Optional Sightseeing Routes
+## Optional Sightseeing Routes
 [[DigitalGarden/Guide - London#📍 Itinerari\|Guide - London#📍 Itinerari]]
+
+
+## From Gatwick to London 
+![Screenshot_20250613_000345_Maps.jpg](/img/user/4.%20Archive/zfiles/Screenshot_20250613_000345_Maps.jpg)
