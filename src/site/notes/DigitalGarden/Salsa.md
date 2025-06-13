@@ -2,15 +2,55 @@
 {"dg-publish":true,"permalink":"/digital-garden/salsa/","tags":["resource"]}
 ---
 
+## Basics 
+### Turns
+@L (1@, ↺)
+@R (@1, ↻)
+@sideL, 0.5@sideL
+@sideR, 0.5@sideR
+@torcillo
+@brokenL
+CBL@R (inside@, travellingR)
+CBL@L (travellingL)
+@mediaVuelta
+2@L (2@ x.5@L x.7@L) 
+2@R (@2)
+T&G (Touch&Go):
+Pizza (Vassoio):
+### Position & Direction
+*(man relative to woman)* 
+F Front 
+B Behind 
+SL Side Left, SR Side Right 
 
-## 🥢 Cucina asiatica
-
-[Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) — 
-#chinese #walk-in #💰💰💰
-Try: signature dishes, pork dumplings 
-
-[Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London)
-#chinese #walk-in #💸💸💸 
-	Try: 
-	- Juicy pork dumplings
-	- noodle soup
+Facing 
+Facing Away
+### Holds
+↑↓
+(hold::RL)
+(hold::RR)
+(hold::XL)
+(hold::XR)
+(hold::||)
+(hold::XX)
+(hold::XXR)
+(hold::XXL)
+### Posizioni 
+hammerLock 
+sombrero 
+copa
+### Actions 
+enciufla 
+openbreak
+check
+following 
+RA (RoundAction) 
+### Moves 1
+teaser 
+promenade 
+rockstep
+mambojazz
+hammerlock
+## Moves 2
+pikaboo (hold::)
+mantello (hold::) 
