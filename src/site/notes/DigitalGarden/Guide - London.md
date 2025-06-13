@@ -24,7 +24,21 @@
 ## 🥢 Cucina asiatica
 
 - [Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) #chinese walk-in, closes 9pm.
-	- 🍴Juicy pork dumplings, noodle soup. 
+	- 🍴Grilled Juicy Pork Dumplings, Dry Mixed Spicy Beef Noodles, Spicy Beef Soup Noodles, Fried Lotus Roots, Sweet Potato balls. 
+>[!TIP]+ Our top pick!
+>Spicy is the way to go. Dry Mixed noodles, our favorite! Don't forget the self-service Tap Water and Chili Oil.
+>The pork dumplings are filled with hot, delicious broth. Let them cool for a moment, then gently pierce a small hole to sip the juice before eating the rest. Enjoy!
+><font color="#36cfc9">**For a Solo Lunch:**</font>
+>1 noodle soup bowl (plenty for one person)
+><font color="#36cfc9">**For Sharing:**</font>
+>1 noodle soup bowl (or dry mixed noodles)
+>8 dumplings
+>Lotus root slices
+>Sweet potato balls
+><font color="#36cfc9">**If Not Sharing:**</font>
+>2 noodle soup bowls (or dry mixed noodles)
+>4 dumplings
+>Sweet potato balls
 - [Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) #chinese walk-in, big queue, go off peak. 
 	- 🍴Signature dishes.
 - [Ippudo Central Saint Giles](https://www.google.com/maps/search/?api=1&query=Ippudo+Central+Saint+Giles+London) #japanese Recommended by Japanese.
