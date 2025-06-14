@@ -57,7 +57,7 @@
 ---
 ## 🍕 Pizza
 - [Napoli on the Road](https://www.google.com/maps/search/?api=1&query=Napoli+on+the+Road+London)
-- [Fatto a Mano](https://www.google.com/maps/search/?api=1&query=Fatto+a+Mano+King%27s+Cross+London) 🔝
+- 🔝[Fatto a Mano](https://www.google.com/maps/search/?api=1&query=Fatto+a+Mano+King%27s+Cross+London)
 - [Da Michele](https://www.google.com/maps/search/?api=1&query=Da+Michele+London)
 - [Pizza Pilgrims](https://www.google.com/maps/search/?api=1&query=Pizza+Pilgrims+London)
 - [Rosso Pomodoro](https://www.google.com/maps/search/?api=1&query=Rosso+Pomodoro+London)
