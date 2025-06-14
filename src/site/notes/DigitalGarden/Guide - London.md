@@ -2,29 +2,24 @@
 {"dg-publish":true,"permalink":"/digital-garden/guide-london/","tags":["resource"]}
 ---
 
-## 🍽️ Cibo
-
+## 🍽️ Food
 - Le cucine chiudono tra le 21:30 e le 22:30 (anche nei pub).
 - Prenota sempre i ristoranti, oppure opta per market/ristoranti senza prenotazione.
 - Evita i ristoranti italiani (carissimi e spesso mediocri), tranne alcune pizzerie.
 - A Londra, le cucine etniche (libanese, indiana, asiatica) sono spesso più autentiche che in Italia.
-
 <!-- 
 🔗 [Tutti i miei ristoranti](https://maps.app.goo.gl/yUdTQqtVX5Swvoou5)
 -->
 ---
-## 🥡 Market
-
+## 🥡 Markets
 - [Seven Dials](https://www.google.com/maps/search/?api=1&query=Seven+Dials+London) — Ex deposito di banane. 
 - [Mercato Mayfair](https://www.google.com/maps/search/?api=1&query=Mercato+Mayfair+London) — Ex chiesa sconsacrata. Aperto fino alle 23:30. Dopo le 20:30 poca fila, DJ set.
 - [Spitalfields Market](https://www.google.com/maps/search/?api=1&query=Spitalfields+Market+London) — Meglio a pranzo.
 - [Borough Market](https://www.google.com/maps/search/?api=1&query=Borough+Market+London) — go early to avoid crowds. 
 	- Ginger Pig
-
 ---
-## 🥢 Cucina asiatica
-
-- 🌟[Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) 🔝 #chinese walk-in, closes 9pm.
+## 🥢 Asian Cuisine 
+- 🔝[Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) 🔝 #chinese walk-in, closes 9pm.
 	- 🍴Grilled Juicy Pork Dumplings, Dry Mixed Spicy Beef Noodles, Spicy Beef Soup Noodles, Fried Lotus Roots, Sweet Potato balls. 
 >[!TIP]- Our top pick! @YeYe
 >Spicy is the way to go. Dry Mixed noodles, our favorite! Don't forget the self-service Tap Water and Chili Oil.
@@ -42,14 +37,12 @@
 >Sweet potato balls
 >>[!TIP]+ Pork Dumplings
 >>The pork dumplings are filled with hot, delicious broth. Let them cool for a moment, then gently pierce a small hole to sip the juice before eating the rest. Enjoy!
-- ⭐[Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) #chinese walk-in, big queue, go off peak. 
+- 🔝[Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) #chinese walk-in, big queue, go off peak. 
 	- 🍴Signature dishes.
-- ✨[Kimchee Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Kimchee+Restaurant+%26+Bar+London) #korean
-- 🔥[Dishoom](https://www.google.com/maps/search/?api=1&query=Dishoom+London) #Indian
-
+- [Kimchee Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Kimchee+Restaurant+%26+Bar+London) #korean
+- [Dishoom](https://www.google.com/maps/search/?api=1&query=Dishoom+London) #Indian
 ---
-## 🌊 Mediterranea / Inglese
-
+## 🌊 Mediterranean Cuisine 
 - [Halepi](https://www.google.com/maps/search/?api=1&query=Halepi+London) — #greek
 > [!TIP]- Our top pick! @Halepi 
 > Kelftico 
@@ -63,49 +56,40 @@
 
 ---
 ## 🍕 Pizza
-
 - [Napoli on the Road](https://www.google.com/maps/search/?api=1&query=Napoli+on+the+Road+London)
 - [Fatto a Mano](https://www.google.com/maps/search/?api=1&query=Fatto+a+Mano+King%27s+Cross+London) 🔝
 - [Da Michele](https://www.google.com/maps/search/?api=1&query=Da+Michele+London)
 - [Pizza Pilgrims](https://www.google.com/maps/search/?api=1&query=Pizza+Pilgrims+London)
 - [Rosso Pomodoro](https://www.google.com/maps/search/?api=1&query=Rosso+Pomodoro+London)
-
 ---
 ## 🍝 Pasta
 Porzioni piccole e prezzi alti rispetto a Roma.
-
 - [Taverna Trastevere](https://maps.app.goo.gl/yw2xzqfyd7H8daun6) 🍴Amatriciana 
 - [Padella](https://www.google.com/maps/search/?api=1&query=Padella+Shoreditch+London) 🍴Pappardelle with 8-hours Dexter beef shin ragu
-
 ---
-## 🍔 Hamburger
+## 🍔 Hamburger 
+- 🔝[Bronson's Burgers](https://maps.app.goo.gl/x9DM9nwP1askLWnv6)
 - [Shake Shack](https://www.google.com/maps/search/?api=1&query=Shake+Shack+London) Catena ma non male 
-
 ---
 ## 🍰 Dolci & Caffè
 <!-- 
 🔗 [Tutti i miei dolci & caffè](https://maps.app.goo.gl/JSVDmn7t5oDPKYrYA)
 -->
-
-- ❤️[Etna Coffee](https://www.google.com/maps/search/?api=1&query=Etna+Coffee+London) Granita siciliana consigliata da amico siciliano.
+- 🔝[Kossofs](https://www.google.com/maps/search/?api=1&query=Kossofs+London) Lievitati, Baguettes better than France
 - 🔝[ZeroToOne Coffee](https://www.google.com/maps/search/?api=1&query=ZeroToOne+Coffee+London) ☕ Vietnamese coffee
-- ❗[Hafız Mustafa 1864](https://www.google.com/maps/search/?api=1&query=Hafiz+Mustafa+1864+Knightsbridge+London) Dolci turchi.
-- [Baaria](https://www.google.com/maps/search/?api=1&query=Baaria+London) Colazione e paste siciliane al pistacchio.
-- [Bread Ahead South Kensington](https://www.google.com/maps/search/?api=1&query=Bread+Ahead+South+Kensington+London) Doughnut top. Prova: crème brûlée, sticky toffee.
+- [Carpo – Hans Crescent](https://www.google.com/maps/search/?api=1&query=Carpo+Hans+Crescent+London)Noci di macadamia incredibili.
+- [Etna Coffee](https://www.google.com/maps/search/?api=1&query=Etna+Coffee+London) Granita siciliana consigliata da amico siciliano.
+- [Hafız Mustafa 1864](https://www.google.com/maps/search/?api=1&query=Hafiz+Mustafa+1864+Knightsbridge+London)
 - [La Maritxu Connaught](https://www.google.com/maps/search/?api=1&query=La+Maritxu+Connaught+London) Cheesecake basca.
-- [Carpo – Hans Crescent](https://www.google.com/maps/search/?api=1&query=Carpo+Hans+Crescent+London) Noci di macadamia incredibili.
-- [Kossofs](https://www.google.com/maps/search/?api=1&query=Kossofs+London) Lievitati, Baguettes better than France 
-
 ---
 ## 🍻 Drinks
-
 In generale, i pub servono ottimi hamburger. Per quelli tipici inglesi, uno vale l’altro.
 <!-- 
 🔗 [Tutti i miei pub](https://maps.app.goo.gl/1Jzu97u9jSin3Dkd8)
 -->
 ### Cocktails & Speakeasy
 - [Cahoots](https://www.google.com/maps/search/?api=1&query=Cahoots+London) – Speakeasy in stile ufficio postale.
-- [Mr. Fogg's](https://www.google.com/maps/search/?api=1&query=Mr.+Fogg%27s+London) – Vari locali in città, stile vintage, 1000 tipi di gin.
+- 🔝[Mr. Fogg's](https://www.google.com/maps/search/?api=1&query=Mr.+Fogg%27s+London) – Vari locali in città, stile vintage, 1000 tipi di gin.
 - [Aqua @ The Shard](https://www.google.com/maps/search/?api=1&query=Aqua+Shard+London) – Vista incredibile, perfetto la sera. Cocktail: £20-25. 🍸El Dandy
 - [The Connaught](https://maps.app.goo.gl/TTgaqzCaaBpHsaYt6) – 🍸Martini 
 - [Swift](https://maps.app.goo.gl/EUbpge3LMtc3FQiQA) 🍸Bloody Mary
@@ -116,26 +100,26 @@ In generale, i pub servono ottimi hamburger. Per quelli tipici inglesi, uno vale
 - [Wagtail Rooftop Bar & Restaurant](https://www.google.com/maps/search/?api=1&query=Wagtail+Rooftop+Bar+%26+Restaurant+London) – Vista spettacolare su St. Paul's, Tower Bridge e The Shard.
 - [Florattica Rooftop London](https://www.google.com/maps/search/?api=1&query=Florattica+Rooftop+London)
 - [Savage Garden](https://www.google.com/maps/search/?api=1&query=Savage+Garden+Rooftop+Bar+London) – Vista su Tower of London, The Shard. Cocktail creativi, stile audace.
-### Pub con giochi
+### Pub with games 
 - [Flight Club](https://www.google.com/maps/search/?api=1&query=Flight+Club+London) – Freccette
 - [Electric Shuffle](https://www.google.com/maps/search/?api=1&query=Electric+Shuffle+London) – Shuffleboard elettronico
 - [Swingers Crazy Golf](https://www.google.com/maps/search/?api=1&query=Swingers+Crazy+Golf+London) – Mini golf
 
 ---
-## 🏙️ Panorami e Vista
+## 🏙️ Viewpoints 
 - [Salesforce Tower (Sushi Samba)](https://www.google.com/maps/search/?api=1&query=Salesforce+Tower+Sushi+Samba+London) – Vai all’ingresso e chiedi di salire solo per un cocktail. Ascensore panoramico. Cocktail £16-18.
 - [The Garden at 120](https://www.google.com/maps/search/?api=1&query=The+Garden+at+120+London) – Giardino su un grattacielo. Gratis.
 - [Sky Garden](https://www.google.com/maps/search/?api=1&query=Sky+Garden+London) – Vista panoramica. Ingresso gratuito, a volte senza prenotazione.
 - [Horizon 22](https://www.google.com/maps/search/?api=1&query=Horizon+22+London) – Il grattacielo più alto di Londra. Serve prenotazione.
-- [Primrose Hill](https://www.google.com/maps/search/?api=1&query=Primrose+Hill+London) – Vista panoramica, zona Camden.
+- 🔝[Primrose Hill](https://www.google.com/maps/search/?api=1&query=Primrose+Hill+London) – Vista panoramica, zona Camden.
 
 ---
-## 🧺 Esperienze locali
+## 🧺 Local Experiences
 - Bottomless Brunch – Sabato. Brunch + cocktail illimitati.
 - Sunday Roast – Domenica. Tradizione britannica.
 
 ---
-## 📍 Itinerari
+## 📍 Itineraries
 ### London Bridge & Tower Bridge
 1. London Bridge & Borough Market
 2. Passeggiata lungo il Tamigi:
