@@ -51,7 +51,7 @@
 ## 🌊 Mediterranea / Inglese
 
 - [Halepi](https://www.google.com/maps/search/?api=1&query=Halepi+London) — #greek
-> [!TIP]- Our top picks! @Halepi 
+> [!TIP]- Our top pick! @Halepi 
 > Kelftico 
 > Kotosuvli
 > Fried Halloumi
@@ -74,11 +74,12 @@
 ## 🍝 Pasta
 Porzioni piccole e prezzi alti rispetto a Roma.
 
-- [Padella](https://www.google.com/maps/search/?api=1&query=Padella+Shoreditch+London) – Zona Shoreditch.
+- [Taverna Trastevere](https://maps.app.goo.gl/yw2xzqfyd7H8daun6) 🍴Amatriciana 
+- [Padella](https://www.google.com/maps/search/?api=1&query=Padella+Shoreditch+London) 🍴Pappardelle with 8-hours Dexter beef shin ragu
 
 ---
 ## 🍔 Hamburger
-- [Shake Shack](https://www.google.com/maps/search/?api=1&query=Shake+Shack+London) – Catena ma di qualità.
+- [Shake Shack](https://www.google.com/maps/search/?api=1&query=Shake+Shack+London) Catena ma non male 
 
 ---
 ## 🍰 Dolci & Caffè
@@ -86,14 +87,14 @@ Porzioni piccole e prezzi alti rispetto a Roma.
 🔗 [Tutti i miei dolci & caffè](https://maps.app.goo.gl/JSVDmn7t5oDPKYrYA)
 -->
 
-- [Etna Coffee](https://www.google.com/maps/search/?api=1&query=Etna+Coffee+London) — Granita siciliana consigliata da amico siciliano.
-- [ZeroToOne Coffee](https://www.google.com/maps/search/?api=1&query=ZeroToOne+Coffee+London) — Caffè vietnamita.
-- [Hafız Mustafa 1864](https://www.google.com/maps/search/?api=1&query=Hafiz+Mustafa+1864+Knightsbridge+London) — Dolci turchi.
-- [Baaria](https://www.google.com/maps/search/?api=1&query=Baaria+London) — Colazione e paste siciliane al pistacchio.
-- [Bread Ahead South Kensington](https://www.google.com/maps/search/?api=1&query=Bread+Ahead+South+Kensington+London) — Doughnut top. Prova: crème brûlée, sticky toffee.
-- [La Maritxu Connaught](https://www.google.com/maps/search/?api=1&query=La+Maritxu+Connaught+London) — Cheesecake basca.
-- [Carpo – Hans Crescent](https://www.google.com/maps/search/?api=1&query=Carpo+Hans+Crescent+London) — Noci di macadamia incredibili.
-- [Kossofs](https://www.google.com/maps/search/?api=1&query=Kossofs+London) — Lievitati, Baguettes better than France 
+- ❤️[Etna Coffee](https://www.google.com/maps/search/?api=1&query=Etna+Coffee+London) Granita siciliana consigliata da amico siciliano.
+- 🔝[ZeroToOne Coffee](https://www.google.com/maps/search/?api=1&query=ZeroToOne+Coffee+London) ☕ Vietnamese coffee
+- ❗[Hafız Mustafa 1864](https://www.google.com/maps/search/?api=1&query=Hafiz+Mustafa+1864+Knightsbridge+London) Dolci turchi.
+- [Baaria](https://www.google.com/maps/search/?api=1&query=Baaria+London) Colazione e paste siciliane al pistacchio.
+- [Bread Ahead South Kensington](https://www.google.com/maps/search/?api=1&query=Bread+Ahead+South+Kensington+London) Doughnut top. Prova: crème brûlée, sticky toffee.
+- [La Maritxu Connaught](https://www.google.com/maps/search/?api=1&query=La+Maritxu+Connaught+London) Cheesecake basca.
+- [Carpo – Hans Crescent](https://www.google.com/maps/search/?api=1&query=Carpo+Hans+Crescent+London) Noci di macadamia incredibili.
+- [Kossofs](https://www.google.com/maps/search/?api=1&query=Kossofs+London) Lievitati, Baguettes better than France 
 
 ---
 ## 🍻 Drinks
