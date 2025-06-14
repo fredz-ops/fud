@@ -32,7 +32,7 @@
 ><font color="#36cfc9">**For a Solo Lunch:**</font>
 >1 noodle soup bowl (plenty for one person)
 ><font color="#36cfc9">**For Sharing:**</font>
->1 noodle soup bowl (or dry mixed noodles)
+>1 noodle soup bowl (or dry mixed noodles) + extra noodles
 >8 dumplings
 >Lotus root slices
 >Sweet potato balls
@@ -95,7 +95,7 @@ Porzioni piccole e prezzi alti rispetto a Roma.
 - [Kossofs](https://www.google.com/maps/search/?api=1&query=Kossofs+London) — Lievitati, Baguettes better than France 
 
 ---
-## 🍻 Pub
+## 🍻 Drinks
 
 In generale, i pub servono ottimi hamburger. Per quelli tipici inglesi, uno vale l’altro.
 
@@ -103,8 +103,10 @@ In generale, i pub servono ottimi hamburger. Per quelli tipici inglesi, uno vale
 ### Cocktails & Speakeasy
 - [Cahoots](https://www.google.com/maps/search/?api=1&query=Cahoots+London) – Speakeasy in stile ufficio postale.
 - [Mr. Fogg's](https://www.google.com/maps/search/?api=1&query=Mr.+Fogg%27s+London) – Vari locali in città, stile vintage, 1000 tipi di gin.
-- [Aqua @ The Shard](https://www.google.com/maps/search/?api=1&query=Aqua+Shard+London) – Vista incredibile, perfetto la sera. Cocktail: £20-25.
-- [The Connaught](https://maps.app.goo.gl/TTgaqzCaaBpHsaYt6) – 
+- [Aqua @ The Shard](https://www.google.com/maps/search/?api=1&query=Aqua+Shard+London) – Vista incredibile, perfetto la sera. Cocktail: £20-25. 🍸El Dandy
+- [The Connaught](https://maps.app.goo.gl/TTgaqzCaaBpHsaYt6) – 🍸Martini 
+- [Swift](https://maps.app.goo.gl/EUbpge3LMtc3FQiQA) 🍸Bloody Mary
+- [Bar Termini](https://maps.app.goo.gl/SaoXPDcrsoKF63Cm7) 🍸Negroni
 ### Rooftops
 - [Radio Rooftop London](https://www.google.com/maps/search/?api=1&query=Radio+Rooftop+London)
 - [Jin Bo Law Skybar](https://www.google.com/maps/search/?api=1&query=Jin+Bo+Law+Skybar+London)
