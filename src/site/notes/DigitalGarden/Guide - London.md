@@ -44,8 +44,8 @@
 >>The pork dumplings are filled with hot, delicious broth. Let them cool for a moment, then gently pierce a small hole to sip the juice before eating the rest. Enjoy!
 - 🔝[Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) #chinese walk-in, big queue, go off peak. 
 	- 🍴Signature dishes.
-- [Kimchee Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Kimchee+Restaurant+%26+Bar+London) #korean 🌟
-- [Dishoom](https://www.google.com/maps/search/?api=1&query=Dishoom+London) #Indian ⭐
+- ⭐[Kimchee Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Kimchee+Restaurant+%26+Bar+London) #korean
+- [Dishoom](https://www.google.com/maps/search/?api=1&query=Dishoom+London) #Indian
 
 ---
 ## 🌊 Mediterranea / Inglese
