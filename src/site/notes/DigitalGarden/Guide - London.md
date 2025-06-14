@@ -24,7 +24,7 @@
 ---
 ## 🥢 Cucina asiatica
 
-- [Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) 🔝 #chinese walk-in, closes 9pm.
+- 🌟[Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) 🔝 #chinese walk-in, closes 9pm.
 	- 🍴Grilled Juicy Pork Dumplings, Dry Mixed Spicy Beef Noodles, Spicy Beef Soup Noodles, Fried Lotus Roots, Sweet Potato balls. 
 >[!TIP]- Our top pick! @YeYe
 >Spicy is the way to go. Dry Mixed noodles, our favorite! Don't forget the self-service Tap Water and Chili Oil.
@@ -42,9 +42,9 @@
 >Sweet potato balls
 >>[!TIP]+ Pork Dumplings
 >>The pork dumplings are filled with hot, delicious broth. Let them cool for a moment, then gently pierce a small hole to sip the juice before eating the rest. Enjoy!
-- [Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London)⭐ #chinese walk-in, big queue, go off peak. 
+- ⭐[Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) #chinese walk-in, big queue, go off peak. 
 	- 🍴Signature dishes.
-- ⭐[Kimchee Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Kimchee+Restaurant+%26+Bar+London) #korean
+- [Kimchee Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Kimchee+Restaurant+%26+Bar+London) #korean
 - [Dishoom](https://www.google.com/maps/search/?api=1&query=Dishoom+London) #Indian
 
 ---
