@@ -6,7 +6,7 @@
 - Kitchens close between 9:30 pm and 10:30 pm (even in pubs).
 - Always book restaurants, or choose walk-in markets/restaurants. 
 - Italian restaurants are not recommended (expensive and often mediocre), except for some pizzerias.
-- In London, ethnic cuisines (eg. Lebanese, Indian, Asian) are often more authentic than in Italy.
+- In London, international cuisines (eg. Lebanese, Indian, Asian) are often more authentic than in Italy.
 <!-- 
 🔗 [Tutti i miei ristoranti](https://maps.app.goo.gl/yUdTQqtVX5Swvoou5)
 -->
