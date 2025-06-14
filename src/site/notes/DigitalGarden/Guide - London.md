@@ -3,10 +3,10 @@
 ---
 
 ## 🍽️ Food
-- Le cucine chiudono tra le 21:30 e le 22:30 (anche nei pub).
-- Prenota sempre i ristoranti, oppure opta per market/ristoranti senza prenotazione.
-- Evita i ristoranti italiani (carissimi e spesso mediocri), tranne alcune pizzerie.
-- A Londra, le cucine etniche (libanese, indiana, asiatica) sono spesso più autentiche che in Italia.
+- Kitchens close between 9:30 pm and 10:30 pm (even in pubs).
+- Always book restaurants, or choose walk-in markets/restaurants. 
+- Italian restaurants are not recommended (expensive and often mediocre), except for some pizzerias.
+- In London, ethnic cuisines (eg. Lebanese, Indian, Asian) are often more authentic than in Italy.
 <!-- 
 🔗 [Tutti i miei ristoranti](https://maps.app.goo.gl/yUdTQqtVX5Swvoou5)
 -->
@@ -19,7 +19,7 @@
 	- [The Ginger Pig](https://maps.app.goo.gl/41Y88ZFYRgYLvLSv6)
 ---
 ## 🥢 Asian Cuisine 
-- 🔝[Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) 🔝 #chinese walk-in, closes 9pm.
+- 🔝[Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) #chinese walk-in, closes 9pm.
 	- 🍴Grilled Juicy Pork Dumplings, Dry Mixed Spicy Beef Noodles, Spicy Beef Soup Noodles, Fried Lotus Roots, Sweet Potato balls. 
 >[!TIP]- Our top pick! @YeYe
 >Spicy is the way to go. Dry Mixed noodles, our favorite! Don't forget the self-service Tap Water and Chili Oil.
