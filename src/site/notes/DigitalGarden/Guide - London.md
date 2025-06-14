@@ -12,11 +12,11 @@
 -->
 ---
 ## 🥡 Markets
+- [Mercato Mayfair](https://www.google.com/maps/search/?api=1&query=Mercato+Mayfair+London) Ex chiesa sconsacrata. Aperto fino alle 23:30. Dopo le 20:30 poca fila, DJ set.
 - [Seven Dials](https://www.google.com/maps/search/?api=1&query=Seven+Dials+London) — Ex deposito di banane. 
-- [Mercato Mayfair](https://www.google.com/maps/search/?api=1&query=Mercato+Mayfair+London) — Ex chiesa sconsacrata. Aperto fino alle 23:30. Dopo le 20:30 poca fila, DJ set.
-- [Spitalfields Market](https://www.google.com/maps/search/?api=1&query=Spitalfields+Market+London) — Meglio a pranzo.
-- [Borough Market](https://www.google.com/maps/search/?api=1&query=Borough+Market+London) — go early to avoid crowds. 
-	- Ginger Pig
+- [Spitalfields Market](https://www.google.com/maps/search/?api=1&query=Spitalfields+Market+London) Lunch
+- [Borough Market](https://www.google.com/maps/search/?api=1&query=Borough+Market+London)  Go early to avoid crowds. 
+	- [The Ginger Pig](https://maps.app.goo.gl/41Y88ZFYRgYLvLSv6)
 ---
 ## 🥢 Asian Cuisine 
 - 🔝[Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) 🔝 #chinese walk-in, closes 9pm.
