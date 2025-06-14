@@ -88,7 +88,7 @@ In generale, i pub servono ottimi hamburger. Per quelli tipici inglesi, uno vale
 🔗 [Tutti i miei pub](https://maps.app.goo.gl/1Jzu97u9jSin3Dkd8)
 -->
 ### Cocktails & Speakeasy
-- [Cahoots](https://www.google.com/maps/search/?api=1&query=Cahoots+London) – Speakeasy in stile ufficio postale.
+- 🔝[Cahoots](https://www.google.com/maps/search/?api=1&query=Cahoots+London) – Speakeasy in stile ufficio postale.
 - 🔝[Mr. Fogg's](https://www.google.com/maps/search/?api=1&query=Mr.+Fogg%27s+London) – Vari locali in città, stile vintage, 1000 tipi di gin.
 - [Aqua @ The Shard](https://www.google.com/maps/search/?api=1&query=Aqua+Shard+London) – Vista incredibile, perfetto la sera. Cocktail: £20-25. 🍸El Dandy
 - [The Connaught](https://maps.app.goo.gl/TTgaqzCaaBpHsaYt6) – 🍸Martini 
