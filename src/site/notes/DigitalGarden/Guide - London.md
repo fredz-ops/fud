@@ -9,9 +9,9 @@
 - Evita i ristoranti italiani (carissimi e spesso mediocri), tranne alcune pizzerie.
 - A Londra, le cucine etniche (libanese, indiana, asiatica) sono spesso più autentiche che in Italia.
 
-<!-- -->
+<!-- 
 🔗 [Tutti i miei ristoranti](https://maps.app.goo.gl/yUdTQqtVX5Swvoou5)
-
+-->
 ---
 ## 🥡 Market
 
@@ -83,7 +83,9 @@ Porzioni piccole e prezzi alti rispetto a Roma.
 
 ---
 ## 🍰 Dolci & Caffè
+<!-- 
 🔗 [Tutti i miei dolci & caffè](https://maps.app.goo.gl/JSVDmn7t5oDPKYrYA)
+-->
 
 - [Etna Coffee](https://www.google.com/maps/search/?api=1&query=Etna+Coffee+London) — Granita siciliana consigliata da amico siciliano.
 - [ZeroToOne Coffee](https://www.google.com/maps/search/?api=1&query=ZeroToOne+Coffee+London) — Caffè vietnamita.
@@ -98,8 +100,9 @@ Porzioni piccole e prezzi alti rispetto a Roma.
 ## 🍻 Drinks
 
 In generale, i pub servono ottimi hamburger. Per quelli tipici inglesi, uno vale l’altro.
-
+<!-- 
 🔗 [Tutti i miei pub](https://maps.app.goo.gl/1Jzu97u9jSin3Dkd8)
+-->
 ### Cocktails & Speakeasy
 - [Cahoots](https://www.google.com/maps/search/?api=1&query=Cahoots+London) – Speakeasy in stile ufficio postale.
 - [Mr. Fogg's](https://www.google.com/maps/search/?api=1&query=Mr.+Fogg%27s+London) – Vari locali in città, stile vintage, 1000 tipi di gin.
