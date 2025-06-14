@@ -15,17 +15,18 @@
 ---
 ## 🥡 Market
 
-- [Seven Dials](https://www.google.com/maps/search/?api=1&query=Seven+Dials+London) — Ex deposito di banane. Ottimo a pranzo e cena.
+- [Seven Dials](https://www.google.com/maps/search/?api=1&query=Seven+Dials+London) — Ex deposito di banane. 
 - [Mercato Mayfair](https://www.google.com/maps/search/?api=1&query=Mercato+Mayfair+London) — Ex chiesa sconsacrata. Aperto fino alle 23:30. Dopo le 20:30 poca fila, DJ set.
 - [Spitalfields Market](https://www.google.com/maps/search/?api=1&query=Spitalfields+Market+London) — Meglio a pranzo.
-- [Borough Market](https://www.google.com/maps/search/?api=1&query=Borough+Market+London) — Pranzo consigliato.
+- [Borough Market](https://www.google.com/maps/search/?api=1&query=Borough+Market+London) — go early to avoid crowds. 
+	- Ginger Pig
 
 ---
 ## 🥢 Cucina asiatica
 
-- [Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) #chinese walk-in, closes 9pm.
+- [Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) 🔝 #chinese walk-in, closes 9pm.
 	- 🍴Grilled Juicy Pork Dumplings, Dry Mixed Spicy Beef Noodles, Spicy Beef Soup Noodles, Fried Lotus Roots, Sweet Potato balls. 
->[!TIP]+ Our top pick! @YeYe
+>[!TIP]- Our top pick! @YeYe
 >Spicy is the way to go. Dry Mixed noodles, our favorite! Don't forget the self-service Tap Water and Chili Oil.
 > 
 ><font color="#36cfc9">**For a Solo Lunch:**</font>
@@ -41,9 +42,8 @@
 >Sweet potato balls
 >>[!TIP]+ Pork Dumplings
 >>The pork dumplings are filled with hot, delicious broth. Let them cool for a moment, then gently pierce a small hole to sip the juice before eating the rest. Enjoy!
-- [Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) #chinese walk-in, big queue, go off peak. 
+- 🔝[Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) #chinese walk-in, big queue, go off peak. 
 	- 🍴Signature dishes.
-- [Ippudo Central Saint Giles](https://www.google.com/maps/search/?api=1&query=Ippudo+Central+Saint+Giles+London) #japanese Recommended by Japanese.
 - [Kimchee Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Kimchee+Restaurant+%26+Bar+London) #korean 
 - [Gunpowder](https://www.google.com/maps/search/?api=1&query=Gunpowder+London) #indian-fusion
 - [Dishoom](https://www.google.com/maps/search/?api=1&query=Dishoom+London) #indian
@@ -51,18 +51,25 @@
 ---
 ## 🌊 Mediterranea / Inglese
 
-- [Halepi](https://www.google.com/maps/search/?api=1&query=Halepi+London) — Ristorante greco top.
-- [Putney Pies](https://www.google.com/maps/search/?api=1&query=Putney+Pies+London) — Pub inglese specializzato in pies.
-- [The Pie Room](https://www.google.com/maps/search/?api=1&query=The+Pie+Room+London) — Ristorante stellato per pies.
+- [Halepi](https://www.google.com/maps/search/?api=1&query=Halepi+London) — #greek
+> [!TIP]- Our top picks! @Halepi 
+> Kelftico 
+> Kotosuvli
+> Fried Halloumi
+> Spanakopita with manuri
+> Tzatziki 
+> Galacto Bureko
+- [The Pie Room](https://www.google.com/maps/search/?api=1&query=The+Pie+Room+London) #english Michelin-starred chef. 
+- [Willy's Pies](https://maps.app.goo.gl/Q2cVvwS9AtGjpNj66) #english 
 
 ---
 ## 🍕 Pizza
 
-- [Rosso Pomodoro](https://www.google.com/maps/search/?api=1&query=Rosso+Pomodoro+London)
 - [Napoli on the Road](https://www.google.com/maps/search/?api=1&query=Napoli+on+the+Road+London)
-- [Fatto a Mano](https://www.google.com/maps/search/?api=1&query=Fatto+a+Mano+King%27s+Cross+London) – Zona King's Cross
+- [Fatto a Mano](https://www.google.com/maps/search/?api=1&query=Fatto+a+Mano+King%27s+Cross+London) 🔝
 - [Da Michele](https://www.google.com/maps/search/?api=1&query=Da+Michele+London)
 - [Pizza Pilgrims](https://www.google.com/maps/search/?api=1&query=Pizza+Pilgrims+London)
+- [Rosso Pomodoro](https://www.google.com/maps/search/?api=1&query=Rosso+Pomodoro+London)
 
 ---
 ## 🍝 Pasta
@@ -93,10 +100,11 @@ Porzioni piccole e prezzi alti rispetto a Roma.
 In generale, i pub servono ottimi hamburger. Per quelli tipici inglesi, uno vale l’altro.
 
 🔗 [Tutti i miei pub](https://maps.app.goo.gl/1Jzu97u9jSin3Dkd8)
-### Pub fighetti & speakeasy
+### Cocktails & Speakeasy
 - [Cahoots](https://www.google.com/maps/search/?api=1&query=Cahoots+London) – Speakeasy in stile ufficio postale.
 - [Mr. Fogg's](https://www.google.com/maps/search/?api=1&query=Mr.+Fogg%27s+London) – Vari locali in città, stile vintage, 1000 tipi di gin.
 - [Aqua @ The Shard](https://www.google.com/maps/search/?api=1&query=Aqua+Shard+London) – Vista incredibile, perfetto la sera. Cocktail: £20-25.
+- [The Connaught](https://maps.app.goo.gl/TTgaqzCaaBpHsaYt6) – 
 ### Rooftops
 - [Radio Rooftop London](https://www.google.com/maps/search/?api=1&query=Radio+Rooftop+London)
 - [Jin Bo Law Skybar](https://www.google.com/maps/search/?api=1&query=Jin+Bo+Law+Skybar+London)
@@ -107,7 +115,6 @@ In generale, i pub servono ottimi hamburger. Per quelli tipici inglesi, uno vale
 - [Flight Club](https://www.google.com/maps/search/?api=1&query=Flight+Club+London) – Freccette
 - [Electric Shuffle](https://www.google.com/maps/search/?api=1&query=Electric+Shuffle+London) – Shuffleboard elettronico
 - [Swingers Crazy Golf](https://www.google.com/maps/search/?api=1&query=Swingers+Crazy+Golf+London) – Mini golf
-- [Ballie Ballerson](https://www.google.com/maps/search/?api=1&query=Ballie+Ballerson+London) – Piscina di palline, musica e drink
 
 ---
 ## 🏙️ Panorami e Vista
