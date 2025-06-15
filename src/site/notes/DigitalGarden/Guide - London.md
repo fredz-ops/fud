@@ -12,18 +12,18 @@
 -->
 ---
 ## 🥡 Markets
-- [Mercato Mayfair](https://www.google.com/maps/search/?api=1&query=Mercato+Mayfair+London) Ex chiesa sconsacrata. Aperto fino alle 23:30. Dopo le 20:30 poca fila, DJ set.
-- [Seven Dials](https://www.google.com/maps/search/?api=1&query=Seven+Dials+London) — Ex deposito di banane. 
+- [Mercato Mayfair](https://www.google.com/maps/search/?api=1&query=Mercato+Mayfair+London) Former deconsecrated church. Open until 11:30 pm. After 8:30 pm little queue, DJ set.
+- [Seven Dials](https://www.google.com/maps/search/?api=1&query=Seven+Dials+London) Former banana warehouse
 - [Spitalfields Market](https://www.google.com/maps/search/?api=1&query=Spitalfields+Market+London) Lunch
 - [Borough Market](https://www.google.com/maps/search/?api=1&query=Borough+Market+London)  Go early to avoid crowds. 
 	- [The Ginger Pig](https://maps.app.goo.gl/41Y88ZFYRgYLvLSv6)
+
 ---
-## 🥢 Asian Cuisine 
+## 🥢 International Cuisine 
 - 🔝[Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) #chinese walk-in, closes 9pm.
 	- 🍴Grilled Juicy Pork Dumplings, Dry Mixed Spicy Beef Noodles, Spicy Beef Soup Noodles, Fried Lotus Roots, Sweet Potato balls. 
 >[!TIP]- Our top pick! @YeYe
 >Spicy is the way to go. Dry Mixed noodles, our favorite! Don't forget the self-service Tap Water and Chili Oil.
-> 
 ><font color="#36cfc9">**For a Solo Lunch:**</font>
 >1 noodle soup bowl (plenty for one person)
 ><font color="#36cfc9">**For Sharing:**</font>
@@ -41,16 +41,14 @@
 	- 🍴Signature dishes.
 - [Kimchee Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Kimchee+Restaurant+%26+Bar+London) #korean
 - [Dishoom](https://www.google.com/maps/search/?api=1&query=Dishoom+London) #Indian
+- [Papelòn](https://maps.app.goo.gl/zFr2ditYazUHDHqZ7) #venezuelan cachapa
 ---
 ## 🌊 Mediterranean Cuisine 
 - [Halepi](https://www.google.com/maps/search/?api=1&query=Halepi+London) — #greek
 > [!TIP]- Our top pick! @Halepi 
-> Kelftico 
-> Kotosuvli
 > Fried Halloumi
+> Kelftico
 > Spanakopita with manuri
-> Tzatziki 
-> Galacto Bureko
 - [The Pie Room](https://www.google.com/maps/search/?api=1&query=The+Pie+Room+London) #english Michelin-starred chef. 
 - [Willy's Pies](https://maps.app.goo.gl/Q2cVvwS9AtGjpNj66) #english 
 
@@ -63,13 +61,13 @@
 - [Rosso Pomodoro](https://www.google.com/maps/search/?api=1&query=Rosso+Pomodoro+London)
 ---
 ## 🍝 Pasta
-Porzioni piccole e prezzi alti rispetto a Roma.
+Portions are generally small and prices relatively high. 
 - [Taverna Trastevere](https://maps.app.goo.gl/yw2xzqfyd7H8daun6) 🍴Amatriciana 
 - [Padella](https://www.google.com/maps/search/?api=1&query=Padella+Shoreditch+London) 🍴Pappardelle with 8-hours Dexter beef shin ragu
 ---
 ## 🍔 Hamburger 
 - 🔝[Bronson's Burgers](https://maps.app.goo.gl/x9DM9nwP1askLWnv6)
-- [Shake Shack](https://www.google.com/maps/search/?api=1&query=Shake+Shack+London) Catena ma non male 
+- [Shake Shack](https://www.google.com/maps/search/?api=1&query=Shake+Shack+London) 
 ---
 ## 🍰 Dolci & Caffè
 <!-- 
@@ -77,7 +75,7 @@ Porzioni piccole e prezzi alti rispetto a Roma.
 -->
 - 🔝[Kossofs](https://www.google.com/maps/search/?api=1&query=Kossofs+London) Lievitati, Baguettes better than France
 - 🔝[ZeroToOne Coffee](https://www.google.com/maps/search/?api=1&query=ZeroToOne+Coffee+London) ☕ Vietnamese coffee
-- [Carpo – Hans Crescent](https://www.google.com/maps/search/?api=1&query=Carpo+Hans+Crescent+London)Noci di macadamia incredibili.
+- [Carpo – Hans Crescent](https://www.google.com/maps/search/?api=1&query=Carpo+Hans+Crescent+London) 
 - [Etna Coffee](https://www.google.com/maps/search/?api=1&query=Etna+Coffee+London) Granita siciliana consigliata da amico siciliano.
 - [Hafız Mustafa 1864](https://www.google.com/maps/search/?api=1&query=Hafiz+Mustafa+1864+Knightsbridge+London)
 - [La Maritxu Connaught](https://www.google.com/maps/search/?api=1&query=La+Maritxu+Connaught+London) Cheesecake basca.
@@ -92,7 +90,7 @@ In generale, i pub servono ottimi hamburger. Per quelli tipici inglesi, uno vale
 - 🔝[Mr. Fogg's](https://www.google.com/maps/search/?api=1&query=Mr.+Fogg%27s+London) – Vari locali in città, stile vintage, 1000 tipi di gin.
 - [Aqua @ The Shard](https://www.google.com/maps/search/?api=1&query=Aqua+Shard+London) – Vista incredibile, perfetto la sera. Cocktail: £20-25. 🍸El Dandy
 - [The Connaught](https://maps.app.goo.gl/TTgaqzCaaBpHsaYt6) – 🍸Martini 
-- [Swift](https://maps.app.goo.gl/EUbpge3LMtc3FQiQA) 🍸Bloody Mary
+- [Swift](https://maps.app.goo.gl/EUbpge3LMtc3FQiQA) 🍸Bloody Mary, Irish Coffe, Rhubarb Sour 
 - [Bar Termini](https://maps.app.goo.gl/SaoXPDcrsoKF63Cm7) 🍸Negroni
 ### Rooftops
 - [Radio Rooftop London](https://www.google.com/maps/search/?api=1&query=Radio+Rooftop+London)
