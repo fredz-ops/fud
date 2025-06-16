@@ -19,7 +19,7 @@
 	- [The Ginger Pig](https://maps.app.goo.gl/41Y88ZFYRgYLvLSv6)
 
 ---
-## 🥢 International Cuisine 
+## 🥢International Cuisine 
 - 🔝[Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) #chinese walk-in, closes 9pm.
 - 🍴Grilled Juicy Pork Dumplings, Dry Mixed Spicy Beef Noodles, Spicy Beef Soup Noodles, Fried Lotus Roots, Sweet Potato balls. 
 >[!TIP]- Our top pick! @YeYe
@@ -35,6 +35,23 @@
 >2 noodle soup bowls (or dry mixed noodles)
 >4 dumplings
 >Sweet potato balls
+>
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## FRIDAY
+
+- **12:00–13:00**: Free lunch time – *YeYe Noodles and Dumpling* (walk-in)
+- **18:00–24:00**: Meet up
+  - Explore Leicester Square, Piccadilly, Soho
+  - *19:00* – Dinner at Ippudo (reservation confirmed)
+  - Continue exploring Soho
+  - *21:30* – Drinks at Mr Fogg’s Botanical Tavern (reservation confirmed)
+
+
+</div></div>
+
 >>[!TIP]+ Pork Dumplings
 >>The pork dumplings are filled with hot, delicious broth. Let them cool for a moment, then gently pierce a small hole to sip the juice before eating the rest. Enjoy!
 - 🔝[Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) #chinese walk-in, big queue, go off peak. 
@@ -42,6 +59,8 @@
 - [Kimchee Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Kimchee+Restaurant+%26+Bar+London) #korean
 - [Dishoom](https://www.google.com/maps/search/?api=1&query=Dishoom+London) #Indian
 - [Papelòn](https://maps.app.goo.gl/zFr2ditYazUHDHqZ7) #venezuelan cachapa
+
+
 ---
 ## 🌊 Mediterranean Cuisine 
 - [Halepi](https://www.google.com/maps/search/?api=1&query=Halepi+London) — #greek
