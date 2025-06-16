@@ -6,4 +6,3 @@
 
 [[DigitalGarden/Guide - London\|Guide - London]]
 [[DigitalGarden/Guide - Athens\|Guide - Athens]]
-[[DigitalGarden/Roby & Giorgio\|Roby & Giorgio]]
