@@ -21,7 +21,7 @@
 ---
 ## 🥢International Cuisine 
 - 🔝[Ye Ye Noodle & Dumpling](https://www.google.com/maps/search/?api=1&query=Ye+Ye+Noodle+%26+Dumpling+Artillery+Passage+London) #chinese walk-in, closes 9pm.
-- 🍴Grilled Juicy Pork Dumplings, Dry Mixed Spicy Beef Noodles, Spicy Beef Soup Noodles, Fried Lotus Roots, Sweet Potato balls. 
+	- 🍴Grilled Juicy Pork Dumplings, Dry Mixed Spicy Beef Noodles, Spicy Beef Soup Noodles, Fried Lotus Roots, Sweet Potato balls. 
 >[!TIP]- Our top pick! @YeYe
 >Spicy is the way to go. Dry Mixed noodles, our favorite! Don't forget the self-service Tap Water and Chili Oil.
 ><font color="#36cfc9">**For a Solo Lunch:**</font>
@@ -43,7 +43,6 @@
 - [Dishoom](https://www.google.com/maps/search/?api=1&query=Dishoom+London) #Indian
 - [Papelòn](https://maps.app.goo.gl/zFr2ditYazUHDHqZ7) #venezuelan cachapa
 
-
 ---
 ## 🌊 Mediterranean Cuisine 
 - [Halepi](https://www.google.com/maps/search/?api=1&query=Halepi+London) — #greek
@@ -56,8 +55,8 @@
 
 ---
 ## 🍕 Pizza
-- [Napoli on the Road](https://www.google.com/maps/search/?api=1&query=Napoli+on+the+Road+London)
 - 🔝[Fatto a Mano](https://www.google.com/maps/search/?api=1&query=Fatto+a+Mano+King%27s+Cross+London)
+- [Napoli on the Road](https://www.google.com/maps/search/?api=1&query=Napoli+on+the+Road+London)
 - [Da Michele](https://www.google.com/maps/search/?api=1&query=Da+Michele+London)
 - [Pizza Pilgrims](https://www.google.com/maps/search/?api=1&query=Pizza+Pilgrims+London)
 - [Rosso Pomodoro](https://www.google.com/maps/search/?api=1&query=Rosso+Pomodoro+London)
