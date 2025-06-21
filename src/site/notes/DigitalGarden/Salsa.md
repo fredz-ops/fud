@@ -30,6 +30,8 @@ Facing Away
 ↑↓
 (hold::RL)
 (hold::RR)
+(hold::LL)
+(hold::LR)
 (hold::||)
 (hold::XL)
 (hold::XR)
@@ -50,6 +52,7 @@ comb
 rasoio 
 flick
 360
+catch
 ### Moves 1
 teaser 
 promenade 
@@ -68,9 +71,23 @@ ElvisFlick
 	2@elvis
 	openbreak
 	enciufla
-	CBL 3@travellingR
+	CBL 
+	3@travellingR
 	@sideL
 
+Coordination1
+	(hold::||) @RLeader
+	(hold::XR) flickRoundR @sideL Leader catch (hold::LL)
+	(hold::XR) switch (hold::||)
+	(hold::) @R @sideLLeader 
+
+	(hold::)
+	(hold::)
+	(hold::)
+	(hold::)
+	(hold::)
+	(hold::)
+	
 
 ## Pasitos
 spiral
