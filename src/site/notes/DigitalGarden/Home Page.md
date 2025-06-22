@@ -6,3 +6,4 @@
 
 [[DigitalGarden/Guide - London\|Guide - London]]
 [[DigitalGarden/Guide - Athens\|Guide - Athens]]
+[[DigitalGarden/Guide - Sicily\|Guide - Sicily]]
