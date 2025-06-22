@@ -3,63 +3,68 @@
 ---
 
 ## Salato
-
-|Cibo|Descrizione|Prova da|
-|---|---|---|
-|**Sfincione**|Pizza spugnosa con pomodoro, cacio cavallo e origano|Panificio da Graziano|
-|**Stigghiola**|Budella di agnello grigliate|Ballarò (venditori ambulanti)|
-|**Pane ca meusa / Panino con la milza**|Panino con milza e polmone|Nino U Ballerino|
-|**Pane e Panelle / Crocchè**|Pane con frittelle di ceci e crocchette di patate|Friggitoria Chiluzzo|
-|**Arancina**|Palla di riso fritta (ragù, burro o formaggio)|Bar Turing, Ke Palle|
-|**Mozzarella in carrozza**|Panino fritto con mozzarella|Bar Turing|
-|**Mezzo polpo**|Ottimo polpo cotto o crudo|Ballarò (venditori ambulanti)|
-|**Profitto cotto, besciamella, mozzarella**|Rotolo di carne con besciamella e mozzarella|Rosticceria La Romanella|
-|**Pizza Bronte pistacchio**|Pizza con crema di pistacchio|Mamma Sicilia|
+| Cibo                                        | Descrizione                                                       | Prova da                      |
+| ------------------------------------------- | ----------------------------------------------------------------- | ----------------------------- |
+| **Sfincione**                               | Pizza spugnosa con pomodoro, cacio cavallo e origano              | Panificio da Graziano         |
+| **Stigghiola**                              | Pancia di agnello avvolte in budella di intrestino grigliate      | Ballarò (venditori ambulanti) |
+| **Pane ca meusa (maritato)**                | Panino con milza e polmone. Maritato contiene anche cacio cavallo | Nino U Ballerino              |
+| **Pane, Panelle e Crocchè**                 | Pane con frittelle di ceci e crocchette di patate                 | Friggitoria Chiluzzo          |
+| **Arancina**                                | Palla di riso fritta in mille gusti                               | Bar Turing, Ke Palle          |
+| **Mozzarella in carrozza**                  | Panino fritto con mozzarella                                      | Bar Turing                    |
+| **Mezzo polpo**                             | Ottimo polpo cotto o crudo                                        | Ballarò (venditori ambulanti) |
+| **Profitto cotto, besciamella, mozzarella** | Rotolo di carne con besciamella e mozzarella                      | Rosticceria La Romanella      |
+| **Pizza Bronte pistacchio**                 | Pizza con crema di pistacchio                                     | Mamma Sicilia                 |
+## Dolce
+| Cibo                                | Descrizione                                      | Prova da                                                                                                |
+| ----------------------------------- | ------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| **Cannolo siciliano**               | Biscotto fritto ripiena di ricotta       Piana degli albanesi, Dolceria di Santa Caterina, Pasticceria Massaro, Pasticceria Costa, Tastalo. ,  ,  ,  ,  ,  |
+| **Cartoccio**                       | “Bomba” con crema, ricotta e gocce di cioccolato | (past                                                                                                   |
+| **Cassata al forno**                | Cassata cotta al forno                           | P                                                                                                       |
+| **Torta Sette Veli**                | Torta al cioccolato a sette strati                                                                                                                         |
+| **Brioche con gelato e panna**      | Brioche farcita con gelato e panna                                                                                                                         |
+| **Granita di pistacchio e brioche** | Granita al pistacchio servita con                                                                                                                          |
+| **Graffette con ricotta**           | Pasticcini con rico                                                                                                                                        |
+Polpo 10€ 1/2kg da crudo
 
 ---
 
-## Dolce
-
-|Cibo|Descrizione|Prova da|
-|---|---|---|
-|**Cannolo**|Pasta fritta ripiena di ricotta|Pasticceria Massaro, Pasticceria Costa, Santa Caterina, Tastalo, Dolceria di Santa Caterina|
-|**Cartoccio**|“Bomba” con crema, ricotta e gocce di cioccolato|(pasticcerie locali)|
-|**Cassata al forno**|Cassata cotta al forno|Pasticceri a Cappello|
-|**Torta Sette Veli**|Torta al cioccolato a sette strati|Pasticceri a Cappello|
-|**Brioche con gelato e panna**|Brioche farcita con gelato e panna|(bar e gelaterie)|
-|**Granita di pistacchio e brioche**|Granita al pistacchio servita con brioche|Palermo Store Cafe|
-|**Graffette con ricotta**|Pasticcini con ricotta|Spinnato|
 ## Salato
-
-**Sfincione:** Pizza spugnosa con pomodoro, cacio cavallo e origano. Prova da: Panificio da Graziano  
-**Stigghiola:** Pancia di agnello avvolta in budella di agnello grigliate. Prova da: Ballarò
-**Pane ca meusa:** Panino con milza e polmone. Prova da: Nino U Ballerino  
-**Pane e Panelle e Crocchè:** Pane con frittelle di ceci e crocchette di patate. Prova da: Friggitoria Chiluzzo  
-**Arancina:** Palla di riso fritta (ragù, burro o formaggio). Prova da: Bar Turing, Ke Palle  
-**Mozzarella in carrozza:** Panino fritto con mozzarella. Prova da: Bar Turing  
-**Mezzo polpo:** Ottimo polpo cotto o crudo. Prova da: Ballarò (venditori ambulanti)  
-**Profitto cotto, besciamella, mozzarella:** Rotolo di carne con besciamella e mozzarella. Prova da: Rosticceria La Romanella  
-**Pizza Bronte pistacchio:** Pizza con crema di pistacchio. Prova da: Mamma Sicilia
+|**Posto**|Cibo|
+|---|---|
+|**Panificio da Graziano**|Sfincione|
+|**Ballarò (venditori ambulanti)**|Stigghiola, Mezzo polpo|
+|**Nino U Ballerino**|Pane ca meusa / Panino con la milza|
+|**Friggitoria Chiluzzo**|Pane e Panelle / Crocchè|
+|**Bar Turing**|Arancina, Mozzarella in carrozza|
+|**Ke Palle**|Arancina|
+|**Rosticceria La Romanella**|Profitto cotto, besciamella, mozzarella|
+|**Mamma Sicilia**|Pizza Bronte pistacchio|
+## Dolce
+|**Posto**|Cibo|
+|---|---|
+|**Pasticceria Massaro, Pasticceria Costa, Santa Caterina, Tastalo, Dolceria di Santa Caterina**|Cannolo|
+|**(pasticcerie locali)**|Cartoccio|
+|**Pasticceri a Cappello**|Cassata al forno, Torta Sette Veli|
+|**(bar e gelaterie)**|Brioche con gelato e panna|
+|**Palermo Store Cafe**|Granita di pistacchio e brioche|
+|**Spinnato**|Graffette con ricotta|
+## Salato
+**Panificio da Graziano:** Sfincione  
+**Ballarò (venditori ambulanti):** Stigghiola, Mezzo polpo  
+**Nino U Ballerino:** Pane ca meusa / Panino con la milza  
+**Friggitoria Chiluzzo:** Pane e Panelle / Crocchè  
+**Bar Turing:** Arancina, Mozzarella in carrozza  
+**Ke Palle:** Arancina  
+**Rosticceria La Romanella:** Profitto cotto, besciamella, mozzarella  
+**Mamma Sicilia:** Pizza Bronte pistacchio
 ## Dolce
 
-**Cannolo:** Pasta fritta ripiena di ricotta. Prova da: Pasticceria Massaro, Pasticceria Costa, Santa Caterina, Tastalo, Dolceria di Santa Caterina  
-**Cartoccio:** “Bomba” con crema, ricotta e gocce di cioccolato. Prova da: (pasticcerie locali)  
-**Cassata al forno:** Cassata cotta al forno. Prova da: Pasticceri a Cappello  
-**Torta Sette Veli:** Torta al cioccolato a sette strati. Prova da: Pasticceri a Cappello  
-**Brioche con gelato e panna:** Brioche farcita con gelato e panna. Prova da: (bar e gelaterie)  
-**Granita di pistacchio e brioche:** Granita al pistacchio servita con brioche. Prova da: Palermo Store Cafe  
-**Graffette con ricotta:** Pasticcini con ricotta. Prova da: Spinnato
-
-## Food
-cacio cavallo 
-polpo
-
-faccia di vecchia
-Sfincione (trancio di pizza con caciocavallo, pomodoro, origano. panificio da graziano) 
-Stigghiola (pancia di agnello avvolto in budella di intestino)
-Pani câ meusa (panino con la milza. Versione Maritata con cacio cavallo)
-pane panelle crocche'
-arancine 
+**Pasticceria Massaro, Pasticceria Costa, Santa Caterina, Tastalo, Dolceria di Santa Caterina:** Cannolo  
+**(pasticcerie locali):** Cartoccio  
+**Pasticceri a Cappello:** Cassata al forno, Torta Sette Veli  
+**(bar e gelaterie):** Brioche con gelato e panna  
+**Palermo Store Cafe:** Granita di pistacchio e brioche  
+**Spinnato:** Graffette con ricotta
 ### Dolci
 cannolo siciliano (pasticceria massaro, pasticceria costa, santa Caterina, Tastalo) 
 cartoccio (bomba crema ricotta e gocce cioccolato)
