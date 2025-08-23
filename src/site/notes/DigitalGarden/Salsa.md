@@ -77,7 +77,7 @@ ElvisFlick
 
 Coordination1
 	(hold::||) @RLeader
-	(hold::XR) flickRoundR @sideL Leader catch (hold::LL)
+	(hold::XR) flickRoundR @sideL/2 Leader catch (hold::LL)
 	(hold::XR) switch (hold::||)
 	(hold::) @R @sideLLeader 
 
