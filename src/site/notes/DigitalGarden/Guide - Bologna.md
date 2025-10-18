@@ -19,9 +19,9 @@ Where:
 > Gramigna alla salsiccia 
 - [Casamerlò](https://maps.app.goo.gl/yGUoAFiFySEZBBUJ8) #traditional #bolognese
 > [!TIP]- 🍴Our top pick! @Casamerlò
-> Poldino (hamburger con ripieno tortellino, friggione, salsa verde)
 > Ruote alla vodka (panna, guanciale, salsa pomodoro, saltate alla vodka)
 > Tortellini in brodo  
+> Poldino (hamburger con ripieno tortellino, friggione, salsa verde)
 - [Grassilli](https://maps.app.goo.gl/i7ScqZ7oVVdmgbTr8) #traditional #bolognese Prenotare! 
 	🍴Tagliatelle al ragù, Mont Blanc 
 - 🔝[Annamaria trattoria](https://maps.app.goo.gl/sxgTYakDp1Q9sr25A) 🍴tortellini in brodo + lambrusco or sangiovese. Good bread 
