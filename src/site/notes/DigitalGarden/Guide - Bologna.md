@@ -32,7 +32,7 @@ Where:
 - Passatelli fritti 
 - Crescentine ripiene 
 Where:
-- 🔝[Indegno](https://maps.app.goo.gl/GfcVaJgFFgS55hqG7) crescentina, fried tortellini 
+- 🔝[Indegno](https://maps.app.goo.gl/GfcVaJgFFgS55hqG7) Crescentine (L'indegna, La 50special, La Brenda) 
 ## Breakfast 
 - [Sartoria bakery caffè](https://maps.app.goo.gl/y7XAd2TYEmnmqdzR7) ☕ Good cappuccino
 - [Forno Brisa](https://www.google.com/maps/search/?api=1&query=Forno+Brisa+Bologna) Expensive! 🥐 Good pastries, very good nocciola homemade. 🥖 Very good bread 
