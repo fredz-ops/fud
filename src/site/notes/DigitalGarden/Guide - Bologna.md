@@ -5,15 +5,40 @@
 ## Mains  
 - Tortellini in brodo 
 - Tortellini crema di parmigiano 
-- Friggione bolognese 
+- Graminia alla salsiccia  
 - Tagliatelle al ragù bolognese
-where:
-- 🔝[Annamaria trattoria](https://maps.app.goo.gl/sxgTYakDp1Q9sr25A) tortellini in brodo + lambrusco or sangiovese. very good bread 
-- [Le Moline](https://maps.app.goo.gl/sCTHAv1A8QgS1ofL6) nice atmosphere 
+- Cotoletta alla bolognese 
+- Friggione bolognese
+- Crescentine, Tigelle e Salumi 
+- Crescenta (focaccia emiliana)
+Where:
+- 🔝[La Salsamenteria](https://maps.app.goo.gl/o3QTkUtvtF2wPAqp6) #traditional #bolognese
+> [!TIP]- 🍴Our top pick! @La Salsamenteria 
+> Crescentine (come nuvole!) + Friggione 
+> Balanzoni 
+> Gramigna alla salsiccia 
+- [Casamerlò](https://maps.app.goo.gl/yGUoAFiFySEZBBUJ8) #traditional #bolognese
+> [!TIP]- 🍴Our top pick! @Casamerlò
+> Poldino (hamburger con ripieno tortellino, friggione, salsa verde)
+> Ruote alla vodka (panna, guanciale, salsa pomodoro, saltate alla vodka)
+> Tortellini in brodo  
+- [Grassilli](https://maps.app.goo.gl/i7ScqZ7oVVdmgbTr8) #traditional #bolognese Prenotare! 
+	🍴Tagliatelle al ragù, Mont Blanc 
+- 🔝[Annamaria trattoria](https://maps.app.goo.gl/sxgTYakDp1Q9sr25A) 🍴tortellini in brodo + lambrusco or sangiovese. Good bread 
+- [Le Moline](https://maps.app.goo.gl/sCTHAv1A8QgS1ofL6) nice atmosphere  
 ## Street food 
-- 🔝[indegno](https://maps.app.goo.gl/GfcVaJgFFgS55hqG7) crescentina, fried tortellini 
+- Balanzoni fritti 
+- Tortellini fritti 
+- Passatelli fritti 
+- Crescentine ripiene 
+Where:
+- 🔝[Indegno](https://maps.app.goo.gl/GfcVaJgFFgS55hqG7) crescentina, fried tortellini 
 ## Breakfast 
-- [sartoria bakery caffè](https://maps.app.goo.gl/y7XAd2TYEmnmqdzR7) very good cappuccino 
+- [Sartoria bakery caffè](https://maps.app.goo.gl/y7XAd2TYEmnmqdzR7) ☕ Good cappuccino
+- [Forno Brisa](https://www.google.com/maps/search/?api=1&query=Forno+Brisa+Bologna) Expensive! 🥐 Good pastries, very good nocciola homemade. 🥖 Very good bread 
 ## Drinks 
 - [Mascarella22](https://maps.app.goo.gl/DVL27FWgzeav5n6NA ) good cocktails, expensive for the area (7€)
-- [Cucchiaio D'oro](https://maps.app.goo.gl/ymVLQM2UN4GnjjiLA) very cheap, long list of beers, cocktails amari. every kind of food. alternative atmosphere. 
+- [Cucchiaio D'oro](https://maps.app.goo.gl/ymVLQM2UN4GnjjiLA) very cheap, long list of beers, cocktails amari. Typical stret food. alternative atmosphere. 
+
+## To test 
+- Mercato di mezzo 

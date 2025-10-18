@@ -7,5 +7,6 @@
 [[DigitalGarden/Guide - London\|Guide - London]]
 [[DigitalGarden/Guide - Athens\|Guide - Athens]]
 [[DigitalGarden/Guide - Sicily\|Guide - Sicily]]
+[[DigitalGarden/Guide - Bologna\|Guide - Bologna]]
 [[DigitalGarden/Guide - Naples\|Guide - Naples]]
 [[DigitalGarden/Guide - Bari\|Guide - Bari]]

@@ -6,7 +6,7 @@
 Da mangiare in quasi qualunque posto in Grecia, in genere ordino una miriade di questi piatti che arrivano tutti insieme tipo tapas:
 ### Meze (small plates)
 
-Ti prendi 2 di queste con le pite e ci fai la scarpetta.
+Ti prendi 2 di queste con le pite e ci fai la scarpetta.[^1]
 - Tzatziki
 - Tarassamo salada (consistenza Hummus ma di pesce)
 - Tirokafteri
@@ -115,10 +115,12 @@ _Another area I really love is **Glyfada**. Is nearby my home and is next to the
 - Monastiraki (next to romaine ruins and good acropolis view)
 
 **Clubs in Athens**
-- The Clown Dogs
+- The Clown [[3. Resources/dogs\|Dogs]]
 - Lohan Athens
 - Minnie the Moocher
 - The Clumsies
 - Baba au Rum
 
 Lista Google maps di Buttons [link](https://maps.app.goo.gl/h74c4MrmjardvLee6?g_st=ifm)
+
+[^1]: lala
