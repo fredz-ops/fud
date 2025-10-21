@@ -17,11 +17,16 @@ Where:
 > Crescentine (come nuvole!) + Friggione 
 > Balanzoni 
 > Gramigna alla salsiccia 
-- [Casamerlò](https://maps.app.goo.gl/yGUoAFiFySEZBBUJ8) #traditional #bolognese
+- 🔝[Casamerlò](https://maps.app.goo.gl/yGUoAFiFySEZBBUJ8) #traditional #bolognese
 > [!TIP]- 🍴Our top pick! @Casamerlò
 > Ruote alla vodka (panna, guanciale, salsa pomodoro, saltate alla vodka)
 > Tortellini in brodo  
 > Poldino (hamburger con ripieno tortellino, friggione, salsa verde)
+- 🔝[NOI - Quelli di Cantina Bentivoglio](https://maps.app.goo.gl/RK3wwXxh6BTrXEN46)
+> [!TIP]- 🍴Our top pick! @NOI - Quelli di Cantina Bentivoglio 
+> Tagliatelle al ragù bolognese 
+> ![IMG_0307.jpg](/img/user/4.%20Archive/zfiles/IMG_0307.jpg)
+> Cotoletta alla bolognese con patate arrosto rustiche 
 - [Grassilli](https://maps.app.goo.gl/i7ScqZ7oVVdmgbTr8) #traditional #bolognese Prenotare! 
 	🍴Tagliatelle al ragù, Mont Blanc 
 - 🔝[Annamaria trattoria](https://maps.app.goo.gl/sxgTYakDp1Q9sr25A) 🍴tortellini in brodo + lambrusco or sangiovese. Good bread 
@@ -42,3 +47,4 @@ Where:
 
 ## To test 
 - Mercato di mezzo 
+- Osteria bottega 
