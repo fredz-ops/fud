@@ -27,6 +27,7 @@ Where:
 > Tagliatelle al ragù bolognese 
 > ![IMG_0307.jpg](/img/user/4.%20Archive/zfiles/IMG_0307.jpg)
 > Cotoletta alla bolognese con patate arrosto rustiche 
+> ![IMG_0308.jpg](/img/user/4.%20Archive/zfiles/IMG_0308.jpg)
 - [Grassilli](https://maps.app.goo.gl/i7ScqZ7oVVdmgbTr8) #traditional #bolognese Prenotare! 
 	🍴Tagliatelle al ragù, Mont Blanc 
 - 🔝[Annamaria trattoria](https://maps.app.goo.gl/sxgTYakDp1Q9sr25A) 🍴tortellini in brodo + lambrusco or sangiovese. Good bread 
