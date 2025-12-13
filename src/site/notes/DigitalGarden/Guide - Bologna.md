@@ -14,14 +14,15 @@
 Where:
 - 🔝[La Salsamenteria](https://maps.app.goo.gl/o3QTkUtvtF2wPAqp6) #traditional #bolognese
 > [!TIP]- 🍴Our top pick! @La Salsamenteria 
-> Crescentine (come nuvole!) + Friggione 
-> Balanzoni 
-> Gramigna alla salsiccia 
+> Crescentine (come nuvole!) + Friggione ![20251015_135002.jpg](/img/user/4.%20Archive/zfiles/20251015_135002.jpg)
+> Balanzoni ![IMG_0278.jpg](/img/user/4.%20Archive/zfiles/IMG_0278.jpg)
+> Gramigna alla salsiccia ![IMG_0281.jpg](/img/user/4.%20Archive/zfiles/IMG_0281.jpg)
 - 🔝[Casamerlò](https://maps.app.goo.gl/yGUoAFiFySEZBBUJ8) #traditional #bolognese
 > [!TIP]- 🍴Our top pick! @Casamerlò
 > Ruote alla vodka (panna, guanciale, salsa pomodoro, saltate alla vodka)
+> ![[20251018_130832.mp4]]
 > Tortellini in brodo  
-> Poldino (hamburger con ripieno tortellino, friggione, salsa verde)
+> Poldino (hamburger con ripieno tortellino, friggione, salsa verde) ![20251018_124824.jpg](/img/user/4.%20Archive/zfiles/20251018_124824.jpg)
 - 🔝[NOI - Quelli di Cantina Bentivoglio](https://maps.app.goo.gl/RK3wwXxh6BTrXEN46)
 > [!TIP]- 🍴Our top pick! @NOI - Quelli di Cantina Bentivoglio 
 > Tagliatelle al ragù bolognese 
@@ -31,6 +32,7 @@ Where:
 - [Grassilli](https://maps.app.goo.gl/i7ScqZ7oVVdmgbTr8) #traditional #bolognese Prenotare! 
 	🍴Tagliatelle al ragù, Mont Blanc 
 - 🔝[Annamaria trattoria](https://maps.app.goo.gl/sxgTYakDp1Q9sr25A) 🍴tortellini in brodo + lambrusco or sangiovese. Good bread 
+- [Trattoria da Vito](https://maps.app.goo.gl/w2bjWWLx5aJsembd9) Trattoria dove andavano Lucio Dalla e Luca Carboni. Economico, iconico. 
 - [Le Moline](https://maps.app.goo.gl/sCTHAv1A8QgS1ofL6) nice atmosphere  
 ## Street food 
 - Balanzoni fritti 
@@ -49,3 +51,4 @@ Where:
 ## To test 
 - Mercato di mezzo 
 - Osteria bottega 
+- Cesarina 
