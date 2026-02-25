@@ -10,3 +10,4 @@
 [[DigitalGarden/Guide - Bologna\|Guide - Bologna]]
 [[DigitalGarden/Guide - Naples\|Guide - Naples]]
 [[DigitalGarden/Guide - Bari\|Guide - Bari]]
+[[DigitalGarden/Guide - Rome\|Guide - Rome]]
