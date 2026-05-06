@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/home-page/","tags":["resource","gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/home-page/","tags":["resource","gardenEntry"],"dg-note-properties":{"version":"1","area":null,"links":null,"tags":["resource","gardenEntry"]}}
 ---
 
 # Travel Guides

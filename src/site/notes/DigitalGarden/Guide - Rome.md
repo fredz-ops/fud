@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/guide-rome/","tags":["resource","guide"]}
+{"dg-publish":true,"permalink":"/digital-garden/guide-rome/","tags":["resource","guide"],"dg-note-properties":{"version":"1","area":"[[My Travel Plans]]","links":null,"tags":["resource","guide"]}}
 ---
 
 ###### Pizza

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/guide-sicily/","tags":["resource"]}
+{"dg-publish":true,"permalink":"/digital-garden/guide-sicily/","tags":["resource"],"dg-note-properties":{"version":"1","area":"[[My Travel Plans]]","links":null,"tags":["resource"]}}
 ---
 
 ## Food
