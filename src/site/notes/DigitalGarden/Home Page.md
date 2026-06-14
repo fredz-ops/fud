@@ -12,3 +12,4 @@
 [[DigitalGarden/Guide - Bari\|Guide - Bari]]
 [[DigitalGarden/Guide - Rome\|Guide - Rome]]
 [[DigitalGarden/Guide - Costiera Amalfitana\|Guide - Costiera Amalfitana]]
+[[DigitalGarden/Guide - Longobardi\|Guide - Longobardi]]
