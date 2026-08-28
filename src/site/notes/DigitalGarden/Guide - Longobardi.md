@@ -64,6 +64,9 @@
 - tramonto aperitivo sul cassetto
 - falò 
 
+## Riviere
+- costa degli dei
+- riviera dei cedri 
 # spesa 
 - Fruttarolo Domenico (fichi peperoncini pomodori)
 - Macellaio alla VS
