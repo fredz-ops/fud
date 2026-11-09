@@ -89,8 +89,8 @@ In generale, i pub servono ottimi hamburger. Per quelli tipici inglesi, uno vale
 🔗 [Tutti i miei pub](https://maps.app.goo.gl/1Jzu97u9jSin3Dkd8)
 -->
 ### Cocktails & Speakeasy
-- 🔝- [Swift](https://maps.app.goo.gl/EUbpge3LMtc3FQiQA) 🍸Bloody Mary, Irish Coffee, Rhubarb Sour... You can't go wrong here, every single cocktail is perfection.
-- [Aqua @ The Shard](https://www.google.com/maps/search/?api=1&query=Aqua+Shard+London) – Insane view, even from the toilet! Cocktail: £20-25. 🍸El Dandy: My favourite.
+- 🔝[Swift](https://maps.app.goo.gl/EUbpge3LMtc3FQiQA) 🍸Bloody Mary, Irish Coffee, Rhubarb Sour... You can't go wrong here, every single cocktail is perfection.
+- 🔝 [Aqua @ The Shard](https://www.google.com/maps/search/?api=1&query=Aqua+Shard+London) – Insane view, even from the toilet! Cocktail: £20-25. 🍸El Dandy: My favourite.
 - [Bar Termini](https://maps.app.goo.gl/SaoXPDcrsoKF63Cm7) 🍸Negroni
 - [Cahoots](https://www.google.com/maps/search/?api=1&query=Cahoots+London) This post-office-style speakeasy has such a cool, unique entrance!
 - [Mr. Fogg's](https://www.google.com/maps/search/?api=1&query=Mr.+Fogg%27s+London) Several spots around town with a gorgeous vintage interior. Selection of over 1,000 gins.
