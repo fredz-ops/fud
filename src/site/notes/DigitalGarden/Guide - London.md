@@ -40,7 +40,7 @@
 >>[!TIP]+ Pork Dumplings
 >>The pork dumplings are filled with hot, delicious broth. Let them cool for a moment, then gently pierce a small hole to sip the juice before eating the rest. Enjoy!
 - 🔝[Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) #chinese walk-in, big queue, go off peak. 
-	- 🍴Signature dishes.
+	- 🍴Try the Signature dishes.
 - [Kiln](https://maps.app.goo.gl/5uAMNKyHcXpaSuAh8) Super authentic, charcoal-cooked Thai. Intense smells, you really need to love Thai to eat here. Cool atmosphere.
 - [Papelòn](https://maps.app.goo.gl/zFr2ditYazUHDHqZ7) #venezuelan kiosk selling Cachapa. quick lunch around Notting hill
 
