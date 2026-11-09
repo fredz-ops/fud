@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/guide-longobardi/","tags":["resource"],"dg-note-properties":{"version":"1","area":"[[My Travel Plans]]","links":null,"tags":["resource"]}}
+{"dg-publish":true,"permalink":"/digital-garden/guide-longobardi/","tags":["resource"],"dg-note-properties":{"version":"1","area":"[[2. Areas/My Travel Plans]]","links":null,"tags":["resource"]}}
 ---
 
 

@@ -4,7 +4,7 @@
 
 ## Procedura VPN
 ### 1 - VPN device 
-- [ ] plug in the wall or powerbank (3h lifetime)
+- [ ] plug in the wall or power bank (3h lifetime)
 - [ ] connect USB cable to VPN device and to smartphone
 - [ ] connect blu cable to LAN1
 - [ ] connect blu cable to PC

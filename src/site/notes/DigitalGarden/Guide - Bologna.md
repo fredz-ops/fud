@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/guide-bologna/","tags":["resource"],"dg-note-properties":{"version":"1","area":"[[My Travel Plans]]","links":null,"tags":["resource"]}}
+{"dg-publish":true,"permalink":"/digital-garden/guide-bologna/","tags":["resource"],"dg-note-properties":{"version":"1","area":"[[2. Areas/My Travel Plans]]","links":null,"tags":["resource"]}}
 ---
 
 ## Mains  
@@ -51,4 +51,14 @@ Where:
 ## To test 
 - Mercato di mezzo 
 - Osteria bottega 
-- Cesarina 
+- Cesarina
+ Prenota 2/3 settimane prima
+- [Nonna rosa](https://maps.app.goo.gl/v7KCnmuZtvFmKSp76?g_st=ac) di tutto
+- [Antica trattoria del ragno](https://maps.app.goo.gl/5zzaaWQdAxwADCVWA?g_st=ac) cotoletta boglonese 
+- [Trattoria di via serra](https://maps.app.goo.gl/mG7jpDSAjwfNvCU69?g_st=ac) 
+- [Bitone](https://maps.app.goo.gl/AEKUHbKrrV2oxnUM7?g_st=ac) fighetto costo
+- [La Bottega di franco](https://maps.app.goo.gl/PV4YeTtamEhoepMTA?g_st=ac) solo per bolognesi 
+- [serra sole](https://maps.app.goo.gl/3srLApc8rsX8qsig8?g_st=ac) 
+- [delizie bolognesi](https://maps.app.goo.gl/otvQ4h9m6Z5Rk5aLA?g_st=ac) dolci e gelato 
+- [La cremeria d'Azeglio 1](https://maps.app.goo.gl/xsEL7Nj4h2ykhct59) gelato 
+- [La cremeria d'Azeglio 2](https://maps.app.goo.gl/WvLf2L576YeGurNT8?g_st=ac) gelato 

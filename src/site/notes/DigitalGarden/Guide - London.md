@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/guide-london/","tags":["resource"],"dg-note-properties":{"version":"1","area":"[[My Travel Plans]]","links":null,"tags":["resource"]}}
+{"dg-publish":true,"permalink":"/digital-garden/guide-london/","tags":["resource"],"dg-note-properties":{"version":"1","area":"[[2. Areas/My Travel Plans]]","links":null,"tags":["resource"]}}
 ---
 
 ## 🍽️ Food
@@ -15,8 +15,10 @@
 - [Mercato Mayfair](https://www.google.com/maps/search/?api=1&query=Mercato+Mayfair+London) Former deconsecrated church. Open until 11:30 pm. After 8:30 pm little queue, DJ set.
 - [Seven Dials](https://www.google.com/maps/search/?api=1&query=Seven+Dials+London) Former banana warehouse
 - [Spitalfields Market](https://www.google.com/maps/search/?api=1&query=Spitalfields+Market+London) Lunch
-- [Borough Market](https://www.google.com/maps/search/?api=1&query=Borough+Market+London)  Go early to avoid crowds. 
+- [Borough Market](https://www.google.com/maps/search/?api=1&query=Borough+Market+London) Go early to avoid crowds.
 	- [The Ginger Pig](https://maps.app.goo.gl/41Y88ZFYRgYLvLSv6)
+- [Leadenhall Market](https://www.google.com/maps/search/?api=1&query=Leadenhall+Market+London) aesthetic
+
 
 ---
 ## 🥢International Cuisine 
@@ -39,9 +41,8 @@
 >>The pork dumplings are filled with hot, delicious broth. Let them cool for a moment, then gently pierce a small hole to sip the juice before eating the rest. Enjoy!
 - 🔝[Noodle Inn](https://www.google.com/maps/search/?api=1&query=Noodle+Inn+London) #chinese walk-in, big queue, go off peak. 
 	- 🍴Signature dishes.
-- [Kimchee Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Kimchee+Restaurant+%26+Bar+London) #korean
-- [Dishoom](https://www.google.com/maps/search/?api=1&query=Dishoom+London) #Indian
-- [Papelòn](https://maps.app.goo.gl/zFr2ditYazUHDHqZ7) #venezuelan cachapa
+- [Kiln](https://maps.app.goo.gl/5uAMNKyHcXpaSuAh8) Super authentic, charcoal-cooked Thai. Intense smells, you really need to love Thai to eat here. Cool atmosphere.
+- [Papelòn](https://maps.app.goo.gl/zFr2ditYazUHDHqZ7) #venezuelan kiosk selling Cachapa. quick lunch around Notting hill
 
 ---
 ## 🌊 Mediterranean Cuisine 
@@ -55,8 +56,8 @@
 
 ---
 ## 🍕 Pizza
+- 🔝[Napoli on the Road](https://www.google.com/maps/search/?api=1&query=Napoli+on+the+Road+London) Try "Ricorsi d'infanzia" pizza! It totally gives off "I Masanielli" (Caserta) vibes!
 - 🔝[Fatto a Mano](https://www.google.com/maps/search/?api=1&query=Fatto+a+Mano+King%27s+Cross+London)
-- [Napoli on the Road](https://www.google.com/maps/search/?api=1&query=Napoli+on+the+Road+London)
 - [Da Michele](https://www.google.com/maps/search/?api=1&query=Da+Michele+London)
 - [Pizza Pilgrims](https://www.google.com/maps/search/?api=1&query=Pizza+Pilgrims+London)
 - [Rosso Pomodoro](https://www.google.com/maps/search/?api=1&query=Rosso+Pomodoro+London)
@@ -67,18 +68,19 @@ Portions are generally small and prices relatively high.
 - [Padella](https://www.google.com/maps/search/?api=1&query=Padella+Shoreditch+London) 🍴Pappardelle with 8-hours Dexter beef shin ragu
 ---
 ## 🍔 Hamburger 
-- 🔝[Bronson's Burgers](https://maps.app.goo.gl/x9DM9nwP1askLWnv6)
-- [Shake Shack](https://www.google.com/maps/search/?api=1&query=Shake+Shack+London) 
+- 🔝[Burger and Beyond Soho](https://maps.app.goo.gl/kGWNzxHHixC41Jja6) Boogie burger 
+- 🔝[Bronson's Burgers](https://maps.app.goo.gl/x9DM9nwP1askLWnv6) Takeaway. Try the Daredevil burger, it’s a total chef’s kiss. And The Convict: awesome!
 ---
 ## 🍰 Dolci & Caffè
 <!-- 
 🔗 [Tutti i miei dolci & caffè](https://maps.app.goo.gl/JSVDmn7t5oDPKYrYA)
 -->
 - 🔝[Kossofs](https://www.google.com/maps/search/?api=1&query=Kossofs+London) Lievitati, Baguettes better than France
-- 🔝[ZeroToOne Coffee](https://www.google.com/maps/search/?api=1&query=ZeroToOne+Coffee+London) ☕ Vietnamese coffee
-- [Carpo – Hans Crescent](https://www.google.com/maps/search/?api=1&query=Carpo+Hans+Crescent+London) 
-- [Etna Coffee](https://www.google.com/maps/search/?api=1&query=Etna+Coffee+London) Granita siciliana consigliata da amico siciliano.
-- [Hafız Mustafa 1864](https://www.google.com/maps/search/?api=1&query=Hafiz+Mustafa+1864+Knightsbridge+London)
+- 🔝[ZeroToOne Coffee](https://www.google.com/maps/search/?api=1&query=ZeroToOne+Coffee+London) ☕Proper Vietnamese coffee. Since coffee in London is mostly shit, you need this. Try Cà phê sữa (coffe with condensed milk).
+- 🔝[Carpo – Hans Crescent](https://www.google.com/maps/search/?api=1&query=Carpo+Hans+Crescent+London) The Macadamia nuts with Himalayan salt are hands down the best nuts you'll ever eat.
+- [Bread Ahead Bakery](https://maps.app.goo.gl/mbiQGsoP9va5jXEY8) you have to take Crème Brûlée doughnut
+- [Etna Coffee](https://www.google.com/maps/search/?api=1&query=Etna+Coffee+London)> Sicilian granita, approved by a true Sicilian friend.
+- [Hafız Mustafa 1864](https://www.google.com/maps/search/?api=1&query=Hafiz+Mustafa+1864+Knightsbridge+London) The best baklava you'll ever eat.
 - [La Maritxu Connaught](https://www.google.com/maps/search/?api=1&query=La+Maritxu+Connaught+London) Cheesecake basca.
 ---
 ## 🍻 Drinks
@@ -87,13 +89,14 @@ In generale, i pub servono ottimi hamburger. Per quelli tipici inglesi, uno vale
 🔗 [Tutti i miei pub](https://maps.app.goo.gl/1Jzu97u9jSin3Dkd8)
 -->
 ### Cocktails & Speakeasy
-- 🔝[Cahoots](https://www.google.com/maps/search/?api=1&query=Cahoots+London) – Speakeasy in stile ufficio postale.
-- 🔝[Mr. Fogg's](https://www.google.com/maps/search/?api=1&query=Mr.+Fogg%27s+London) – Vari locali in città, stile vintage, 1000 tipi di gin.
-- [Aqua @ The Shard](https://www.google.com/maps/search/?api=1&query=Aqua+Shard+London) – Vista incredibile, perfetto la sera. Cocktail: £20-25. 🍸El Dandy
-- [The Connaught](https://maps.app.goo.gl/TTgaqzCaaBpHsaYt6) – 🍸Martini 
-- [Swift](https://maps.app.goo.gl/EUbpge3LMtc3FQiQA) 🍸Bloody Mary, Irish Coffe, Rhubarb Sour 
+- 🔝- [Swift](https://maps.app.goo.gl/EUbpge3LMtc3FQiQA) 🍸Bloody Mary, Irish Coffee, Rhubarb Sour... You can't go wrong here, every single cocktail is perfection.
+- [Aqua @ The Shard](https://www.google.com/maps/search/?api=1&query=Aqua+Shard+London) – Insane view, even from the toilet! Cocktail: £20-25. 🍸El Dandy: My favourite.
 - [Bar Termini](https://maps.app.goo.gl/SaoXPDcrsoKF63Cm7) 🍸Negroni
+- [Cahoots](https://www.google.com/maps/search/?api=1&query=Cahoots+London) This post-office-style speakeasy has such a cool, unique entrance!
+- [Mr. Fogg's](https://www.google.com/maps/search/?api=1&query=Mr.+Fogg%27s+London) Several spots around town with a gorgeous vintage interior. Selection of over 1,000 gins.
+- [The Connaught](https://maps.app.goo.gl/TTgaqzCaaBpHsaYt6) – 🍸Martini 
 ### Rooftops
+- [Aqua @ The Shard](https://www.google.com/maps/search/?api=1&query=Aqua+Shard+London) – Insane view, even from the toilet! Cocktail: £20-25. 🍸El Dandy: My favourite.
 - [Radio Rooftop London](https://www.google.com/maps/search/?api=1&query=Radio+Rooftop+London)
 - [Jin Bo Law Skybar](https://www.google.com/maps/search/?api=1&query=Jin+Bo+Law+Skybar+London)
 - [Wagtail Rooftop Bar & Restaurant](https://www.google.com/maps/search/?api=1&query=Wagtail+Rooftop+Bar+%26+Restaurant+London) – Vista spettacolare su St. Paul's, Tower Bridge e The Shard.
@@ -154,7 +157,5 @@ Related: Halepi Greek restaurant
 
 ---
 ### To be tested 
-Kiln #thai
 Popham 
 Brat restaurant 
-Burger&Beyond #burgers Boogie burger 
