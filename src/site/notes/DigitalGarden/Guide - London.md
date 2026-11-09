@@ -56,7 +56,7 @@
 
 ---
 ## 🍕 Pizza
-- 🔝[Napoli on the Road](https://www.google.com/maps/search/?api=1&query=Napoli+on+the+Road+London) Try "Ricorsi d'infanzia" pizza! It totally gives off "I Masanielli" (Caserta) vibes!
+- 🔝[Napoli on the Road](https://www.google.com/maps/search/?api=1&query=Napoli+on+the+Road+London) Try "Ricordi d'infanzia" pizza! It totally gives off "I Masanielli" (Caserta) vibes!
 - 🔝[Fatto a Mano](https://www.google.com/maps/search/?api=1&query=Fatto+a+Mano+King%27s+Cross+London)
 - [Da Michele](https://www.google.com/maps/search/?api=1&query=Da+Michele+London)
 - [Pizza Pilgrims](https://www.google.com/maps/search/?api=1&query=Pizza+Pilgrims+London)
@@ -90,7 +90,7 @@ In generale, i pub servono ottimi hamburger. Per quelli tipici inglesi, uno vale
 -->
 ### Cocktails & Speakeasy
 - 🔝[Swift](https://maps.app.goo.gl/EUbpge3LMtc3FQiQA) 🍸Bloody Mary, Irish Coffee, Rhubarb Sour... You can't go wrong here, every single cocktail is perfection.
-- 🔝 [Aqua @ The Shard](https://www.google.com/maps/search/?api=1&query=Aqua+Shard+London) – Insane view, even from the toilet! Cocktail: £20-25. 🍸El Dandy: My favourite.
+- 🔝[Aqua @ The Shard](https://www.google.com/maps/search/?api=1&query=Aqua+Shard+London) – Insane view, even from the toilet! Cocktail: £20-25. 🍸El Dandy: My favourite.
 - [Bar Termini](https://maps.app.goo.gl/SaoXPDcrsoKF63Cm7) 🍸Negroni
 - [Cahoots](https://www.google.com/maps/search/?api=1&query=Cahoots+London) This post-office-style speakeasy has such a cool, unique entrance!
 - [Mr. Fogg's](https://www.google.com/maps/search/?api=1&query=Mr.+Fogg%27s+London) Several spots around town with a gorgeous vintage interior. Selection of over 1,000 gins.
